@@ -4,6 +4,10 @@ Create Sprites from SVG Images, apply colors, sizes, glow and render for differe
 
 ![Example Spritemap](./example/sprites.png)
 
+## I just want the sprites
+
+* [Download](https://github.com/versatiles-org/versatiles-sprites/releases)
+
 ## Usage
 
 * `npm run import-maki` — Import SVG icons from the [Maki Icon Set](https://github.com/mapbox/maki)
