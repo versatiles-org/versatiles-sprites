@@ -11,7 +11,7 @@ You can find ready-to-use sprites under [Releases](https://github.com/versatiles
 ## Usage
 
 * `npm run import-maki` — Import SVG icons from the [Maki Icon Set](https://github.com/mapbox/maki)
-* `npm run assemble-spritemaps` — Compose Icons into spritemaps as defined in [`config.json`](./config.json)
+* `npm run assemble` — Compose Icons into spritemaps as defined in [`config.json`](./config.json)
 * `npm run dist` — Create a protable tar.gz to use with [`versatiles serve`](https://github.com/versatiles-org/versatiles#run)
 
 ## SVG Sources
