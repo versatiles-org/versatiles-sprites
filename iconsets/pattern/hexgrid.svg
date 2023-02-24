@@ -3,8 +3,8 @@
 
 <svg
    width="120"
-   height="103.924"
-   viewBox="0 0 120 103.92401"
+   height="120"
+   viewBox="0 0 120 120.00001"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
@@ -25,12 +25,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="3.1251122"
-     inkscape:cx="44.958385"
-     inkscape:cy="91.036731"
-     inkscape:window-width="1859"
-     inkscape:window-height="1027"
+     inkscape:cx="46.718323"
+     inkscape:cy="75.517289"
+     inkscape:window-width="1451"
+     inkscape:window-height="916"
      inkscape:window-x="61"
-     inkscape:window-y="229"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="true">
@@ -40,7 +40,7 @@
        spacingx="12"
        spacingy="12"
        originx="-6"
-       originy="22.890626" />
+       originy="22.890628" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -51,7 +51,7 @@
      transform="translate(-6,22.890625)">
     <path
        id="path1142"
-       style="fill:#000000;stroke-width:4.80384;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-       d="M 30 -22.890625 L 30 -9.0332031 L 6 4.8242188 L 6 53.320312 L 30 67.175781 L 30 81.033203 L 42 81.033203 L 42 67.175781 L 54 60.248047 L 65.998047 53.320312 L 66 53.320312 L 89.998047 67.175781 L 89.998047 81.033203 L 101.99805 81.033203 L 101.99805 67.175781 L 113.99805 60.248047 L 125.99805 53.320312 L 125.99805 4.8242188 L 125.99609 4.8242188 L 101.99805 -9.0332031 L 101.99805 -22.890625 L 89.998047 -22.890625 L 89.998047 -9.0332031 L 66 4.8242188 L 65.998047 4.8242188 L 42 -9.0332031 L 42 -22.890625 L 30 -22.890625 z M 36 1.359375 L 48 8.2871094 L 60 15.214844 L 60 42.927734 L 36.001953 56.785156 L 12 42.927734 L 12 15.214844 L 36 1.359375 z M 95.998047 1.359375 L 107.99805 8.2871094 L 119.99805 15.214844 L 119.99805 42.927734 L 96 56.785156 L 71.998047 42.927734 L 71.998047 15.214844 L 95.998047 1.359375 z " />
+       style="fill:#000000;stroke-width:5.16204;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="M 30,-22.890625 V -6.8895725 L 6,9.11148 V 65.109525 L 30,81.108322 V 97.109375 H 42 V 81.108322 L 54,73.108924 65.998047,65.109525 H 66 L 89.998047,81.108322 V 97.109375 H 101.99805 V 81.108322 l 12,-7.999398 12,-7.999399 V 9.11148 h -0.002 l -23.998,-16.0010525 V -22.890625 H 89.998047 V -6.8895725 L 66,9.11148 H 65.998 L 42,-6.8895725 V -22.890625 Z m 6,28.001278 12,7.999399 12,7.999399 V 53.109299 L 36.001953,69.110352 12,53.109299 V 21.109451 Z m 59.998047,0 12.000003,7.999399 12,7.999399 V 53.109299 L 96,69.110352 71.998047,53.109299 V 21.109451 Z" />
   </g>
 </svg>
