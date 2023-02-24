@@ -12,7 +12,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#545454"
@@ -25,14 +27,14 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="3.1251122"
-     inkscape:cx="-13.439517"
-     inkscape:cy="125.11551"
+     inkscape:cx="62.877742"
+     inkscape:cy="120.63567"
      inkscape:window-width="1451"
      inkscape:window-height="916"
      inkscape:window-x="61"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg5"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -44,13 +46,27 @@
   </sodipodi:namedview>
   <defs
      id="defs2" />
-  <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       id="path562"
-       style="fill:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-       d="M 0 24 L 0 84 C 23.999952 84 12.000096 120 60 120 C 107.9999 120 96.000048 84 120 84 L 120 24 C 96.000048 24 99.291779 72.3309 60 72 C 24.000072 72 23.999952 24 0 24 z M 60 144 C 36.000024 144 39.291818 192.3309 0 192 L 0 240 C 47.999952 240 36.000024 204 60 204 C 83.999976 204 72.000048 240 120 240 L 120 192 C 84.000036 192 83.999976 144 60 144 z " />
-  </g>
+  <path
+     id="path612"
+     style="fill:#000000;fill-opacity:1;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+     d="m 0,60 v 30 c 11.999952,0 6.000096,18 30,18 23.999902,0 18.000048,-18 30,-18 11.999954,0 6.000098,18 30,18 23.9999,0 18.00004,-18 30,-18 V 60 C 108.00004,60 109.64585,84.16545 90,84 72.000072,84 71.999954,60 60,60 48.000048,60 49.64585,84.16545 30,84 12.000072,84 11.999952,60 0,60 Z m 30,120 c -11.999964,0 -10.354131,24.16545 -30,24 v 24 c 23.999928,0 18.000036,-18 30,-18 11.999964,0 6.000072,18 30,18 23.999926,0 18.000032,-18 30,-18 11.99997,0 6.00007,18 30,18 v -24 c -17.99994,0 -18.00003,-24 -30,-24 -11.999968,0 -10.35413,24.16545 -30,24 -17.999946,0 -18.000036,-24 -30,-24 z" />
+  <metadata
+     id="metadata4487">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
