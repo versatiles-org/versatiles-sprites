@@ -6,7 +6,7 @@ Create Sprites from SVG Images, apply colors, sizes, glow and render for differe
 
 ## I just want the sprites
 
-* [Download](https://github.com/versatiles-org/versatiles-sprites/releases)
+You can find ready-to-use sprites under [Releases](https://github.com/versatiles-org/versatiles-sprites/releases)
 
 ## Usage
 
