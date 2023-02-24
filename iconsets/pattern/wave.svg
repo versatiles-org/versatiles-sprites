@@ -3,8 +3,8 @@
 
 <svg
    width="120"
-   height="120"
-   viewBox="0 0 120 120"
+   height="240"
+   viewBox="0 0 120 240"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
@@ -25,19 +25,22 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="3.1251122"
-     inkscape:cx="73.437363"
-     inkscape:cy="96.476535"
-     inkscape:window-width="1859"
-     inkscape:window-height="1027"
+     inkscape:cx="-13.439517"
+     inkscape:cy="125.11551"
+     inkscape:window-width="1451"
+     inkscape:window-height="916"
      inkscape:window-x="61"
-     inkscape:window-y="229"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid182"
        spacingx="12"
-       spacingy="12" />
+       spacingy="12"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -46,9 +49,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-       d="m 0,108 c 48,0 36,-36 60,-36 24,0 12,36 60,36 0,-16 0,-32 0,-48 C 84,60 84,12 60,12 36,12 39.291857,60.3309 0,60 0,76 0,92 0,108 Z"
        id="path562"
-       sodipodi:nodetypes="ccccccc" />
+       style="fill:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="M 0 24 L 0 84 C 23.999952 84 12.000096 120 60 120 C 107.9999 120 96.000048 84 120 84 L 120 24 C 96.000048 24 99.291779 72.3309 60 72 C 24.000072 72 23.999952 24 0 24 z M 60 144 C 36.000024 144 39.291818 192.3309 0 192 L 0 240 C 47.999952 240 36.000024 204 60 204 C 83.999976 204 72.000048 240 120 240 L 120 192 C 84.000036 192 83.999976 144 60 144 z " />
   </g>
 </svg>
