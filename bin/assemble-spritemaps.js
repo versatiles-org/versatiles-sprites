@@ -178,16 +178,16 @@ async function main(){
 					// if glow
 					if (config.sets[sprite.set].glow) {
 						sprites[sprite.name] = {
-							"width": sprite.w+(2*factor),
-							"height": sprite.h+(2*factor),
+							"width": Math.ceil(sprite.w+(2*factor)),
+							"height": Math.ceil(sprite.h+(2*factor)),
 							"x": sprite.x+(1*factor),
 							"y": sprite.y+(1*factor),
 							"pixelRatio": factor
 						};
 					} else {
 						sprites[sprite.name] = {
-							"width": sprite.w,
-							"height": sprite.h,
+							"width": Math.ceil(sprite.w),
+							"height": Math.ceil(sprite.h),
 							"x": sprite.x+(2*factor),
 							"y": sprite.y+(2*factor),
 							"pixelRatio": factor
