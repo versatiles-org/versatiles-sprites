@@ -142,8 +142,8 @@ async function main(){
 		// combine into sprite
 		sharp({
 			create: {
-				width: dimensions.width,
-				height: dimensions.height,
+				width: dimensions.width+(4*factor),
+				height: dimensions.height+(4*factor),
 				channels: 4,
 				background: { r: 0, g: 0, b: 0, alpha: 0 }
 			}
