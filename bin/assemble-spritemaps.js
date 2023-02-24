@@ -155,7 +155,9 @@ async function main(){
 				top: sprite.y+(2*factor),
 				left: sprite.x+(2*factor)
 			};
-		})).png().toBuffer(function(err,buf){
+		}))
+		.png()
+		.toBuffer(function(err, buf){
 
 			let nsprites = 0;
 
@@ -169,7 +171,8 @@ async function main(){
 					left: sprite.x+(2*factor)
 				};
 			}))
-			.png().toBuffer(function(err, buf){
+			.png()
+			.toBuffer(function(err, buf){
 				if (err) return console.error(err);
 
 				// assemble json
