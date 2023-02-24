@@ -1,0 +1,6 @@
+node_modules
+iconsets/icons/*
+sprites
+.git
+.nova
+.DS_Store

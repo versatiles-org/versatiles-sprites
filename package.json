@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "versatiles-sprites",
+  "version": "1.0.0",
+  "description": "Generate sprites for map styles from SVG icons",
+  "main": "config.json",
+  "scripts": {
+    "dist": "node bin/dist.js",
+    "import-maki": "node bin/import-maki.js",
+    "assemble": "node bin/assemble-spritemaps.js"
+  },
+  "author": "yetzt <versatiles@yetzt.me>",
+  "license": "Unlicense",
+  "devDependencies": {
+    "bin-pack": "^1.0.2",
+    "sharp": "^0.31.3",
+    "tar-stream": "^3.0.0"
+  }
+}

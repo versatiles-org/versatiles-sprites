@@ -1,0 +1,121 @@
+{
+	"ratio": {
+		"": 1,
+		"@2x": 2,
+		"@3x": 3,
+		"@4x": 4
+	},
+	"themes": [ "light", "dark" ],
+	"sets": {
+		"transport": {
+			"sizes": [11, 13, 15],
+			"colors": {
+				"*": {
+					"dark": [ "#444444" ],
+					"light": [ "#eeeeee" ]
+				},
+				"halt": {
+					"dark": [ "#112200", "#444400" ],
+					"light": [ "#008000", "#ffff8f" ]
+				},
+				"lightrail": {
+					"dark": [ "#112200", "#555555" ],
+					"light": [ "#336600", "#ffffff" ]
+				},
+				"parking": {
+					"dark": [ "#001133", "#555555" ],
+					"light": [ "#005588", "#ffffff" ]
+				},
+				"roundel": {
+					"dark": [ "#001155", "#771111" ],
+					"light": [ "#0011aa", "#dd2211" ]
+				},
+				"subway": {
+					"dark": [ "#002244", "#555555" ],
+					"light": [ "#004488", "#ffffff" ]
+				}
+			},
+			"glow": {
+				"dark": "#ffffff60",
+				"light": "#00000060"
+			}
+		},
+		"pattern": {
+			"sizes": [ 13, 17 ],
+			"colors": {
+				"*": {
+					"dark": [ "#555555" ],
+					"light": [ "#eeeeee" ]
+				}
+			}
+		},
+		"marking": {
+			"sizes": [ 17, 21 ],
+			"colors": {
+				"*": {
+					"dark": [ "#777777" ],
+					"light": [ "#cccccc" ]
+				}
+			},
+			"glow": {
+				"dark": "#ffffff60",
+				"light": "#00000060"
+			}
+		},
+		"symbol": {
+			"sizes": [ 11, 13, 15 ],
+			"colors": {
+				"*": {
+					"dark": [ "#555555" ],
+					"light": [ "#eeeeee" ]
+				},
+				"halt": {
+					"dark": [ "#112200", "#444400" ],
+					"light": [ "#008000", "#ffff8f" ]
+				},
+				"lightrail": {
+					"dark": [ "#112200", "#555555" ],
+					"light": [ "#336600", "#ffffff" ]
+				},
+				"parking": {
+					"dark": [ "#001133", "#555555" ],
+					"light": [ "#005588", "#ffffff" ]
+				},
+				"roundel": {
+					"dark": [ "#001155", "#771111" ],
+					"light": [ "#0011aa", "#dd2211" ]
+				},
+				"subway": {
+					"dark": [ "#002244", "#555555" ],
+					"light": [ "#004488", "#ffffff" ]
+				}
+			},
+			"glow": {
+				"dark": "#ffffff60",
+				"light": "#00000060"
+			}
+		},
+		"shield": {
+			"sizes": [ 14, 16 ],
+			"colors": {
+				"*": {
+					"dark": [ "#555555", "#222222" ],
+					"light": [ "#eeeeee", "#999999" ]
+				}
+			}
+		},
+		"icon": {
+			"sizes": [11, 13, 15],
+			"colors": {
+				"*": {
+					"dark": [ "#555555" ],
+					"light": [ "#eeeeee" ]
+				}
+			},
+			"glow": {
+				"dark": "#ffffff60",
+				"light": "#00000060"
+			}
+		}
+	}
+}
