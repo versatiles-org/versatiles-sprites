@@ -2,6 +2,8 @@
 
 Create Sprites from SVG Images, apply colors, sizes, glow and render for different pixel ratios.
 
+![Example Spritemap](./example/sprites.png)
+
 ## Usage
 
 * `npm run import-maki` — Import SVG icons from the [Maki Icon Set](https://github.com/mapbox/maki)
