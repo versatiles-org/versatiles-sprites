@@ -2,7 +2,7 @@
 	"transport-light-bicycle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 340,
+		"x": 374,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -23,7 +23,7 @@
 	"transport-dark-bicycle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 355,
+		"x": 389,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -44,7 +44,7 @@
 	"transport-light-car-11": {
 		"width": 13,
 		"height": 13,
-		"x": 370,
+		"x": 404,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -65,7 +65,7 @@
 	"transport-dark-car-11": {
 		"width": 13,
 		"height": 13,
-		"x": 385,
+		"x": 419,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -86,7 +86,7 @@
 	"transport-light-halt-11": {
 		"width": 13,
 		"height": 13,
-		"x": 400,
+		"x": 434,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -107,7 +107,7 @@
 	"transport-dark-halt-11": {
 		"width": 13,
 		"height": 13,
-		"x": 415,
+		"x": 449,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -128,7 +128,7 @@
 	"transport-light-harbor-11": {
 		"width": 13,
 		"height": 13,
-		"x": 430,
+		"x": 464,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -149,7 +149,7 @@
 	"transport-dark-harbor-11": {
 		"width": 13,
 		"height": 13,
-		"x": 445,
+		"x": 479,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -170,7 +170,7 @@
 	"transport-light-information-11": {
 		"width": 13,
 		"height": 13,
-		"x": 460,
+		"x": 494,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -191,7 +191,7 @@
 	"transport-dark-information-11": {
 		"width": 13,
 		"height": 13,
-		"x": 475,
+		"x": 509,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -212,7 +212,7 @@
 	"transport-light-lightrail-11": {
 		"width": 13,
 		"height": 13,
-		"x": 490,
+		"x": 524,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -233,7 +233,7 @@
 	"transport-dark-lightrail-11": {
 		"width": 13,
 		"height": 13,
-		"x": 505,
+		"x": 539,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -254,7 +254,7 @@
 	"transport-light-metro-11": {
 		"width": 13,
 		"height": 13,
-		"x": 520,
+		"x": 554,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -275,7 +275,7 @@
 	"transport-dark-metro-11": {
 		"width": 13,
 		"height": 13,
-		"x": 535,
+		"x": 569,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -296,7 +296,7 @@
 	"transport-light-parking-11": {
 		"width": 13,
 		"height": 13,
-		"x": 550,
+		"x": 584,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -317,7 +317,7 @@
 	"transport-dark-parking-11": {
 		"width": 13,
 		"height": 13,
-		"x": 565,
+		"x": 599,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -338,8 +338,8 @@
 	"transport-light-roundel-11": {
 		"width": 13,
 		"height": 13,
-		"x": 580,
-		"y": 604,
+		"x": 622,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"transport-light-roundel-13": {
@@ -359,8 +359,8 @@
 	"transport-dark-roundel-11": {
 		"width": 13,
 		"height": 13,
-		"x": 595,
-		"y": 604,
+		"x": 622,
+		"y": 16,
 		"pixelRatio": 1
 	},
 	"transport-dark-roundel-13": {
@@ -381,7 +381,7 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 1,
+		"y": 31,
 		"pixelRatio": 1
 	},
 	"transport-light-subway-13": {
@@ -402,7 +402,7 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 16,
+		"y": 46,
 		"pixelRatio": 1
 	},
 	"transport-dark-subway-13": {
@@ -423,7 +423,7 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 31,
+		"y": 61,
 		"pixelRatio": 1
 	},
 	"transport-light-suitcase-13": {
@@ -444,7 +444,7 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 46,
+		"y": 76,
 		"pixelRatio": 1
 	},
 	"transport-dark-suitcase-13": {
@@ -465,7 +465,7 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 61,
+		"y": 91,
 		"pixelRatio": 1
 	},
 	"transport-light-train-13": {
@@ -486,7 +486,7 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 76,
+		"y": 106,
 		"pixelRatio": 1
 	},
 	"transport-dark-train-13": {
@@ -507,7 +507,7 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 91,
+		"y": 121,
 		"pixelRatio": 1
 	},
 	"transport-light-tram-13": {
@@ -528,7 +528,7 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 106,
+		"y": 136,
 		"pixelRatio": 1
 	},
 	"transport-dark-tram-13": {
@@ -545,269 +545,381 @@
 		"y": 238,
 		"pixelRatio": 1
 	},
+	"pattern-light-checkerboard-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 152,
+		"pixelRatio": 1
+	},
 	"pattern-light-checkerboard-13": {
-		"width": 15,
-		"height": 15,
-		"x": 486,
-		"y": 426,
+		"width": 13,
+		"height": 13,
+		"x": 487,
+		"y": 427,
 		"pixelRatio": 1
 	},
 	"pattern-light-checkerboard-17": {
-		"width": 19,
-		"height": 19,
-		"x": 206,
-		"y": 170,
+		"width": 17,
+		"height": 17,
+		"x": 207,
+		"y": 171,
+		"pixelRatio": 1
+	},
+	"pattern-dark-checkerboard-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 167,
 		"pixelRatio": 1
 	},
 	"pattern-dark-checkerboard-13": {
-		"width": 15,
-		"height": 15,
-		"x": 486,
-		"y": 443,
+		"width": 13,
+		"height": 13,
+		"x": 487,
+		"y": 444,
 		"pixelRatio": 1
 	},
 	"pattern-dark-checkerboard-17": {
-		"width": 19,
-		"height": 19,
-		"x": 184,
-		"y": 153,
+		"width": 17,
+		"height": 17,
+		"x": 185,
+		"y": 154,
+		"pixelRatio": 1
+	},
+	"pattern-light-circles-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 182,
 		"pixelRatio": 1
 	},
 	"pattern-light-circles-13": {
-		"width": 15,
-		"height": 15,
-		"x": 486,
-		"y": 460,
+		"width": 13,
+		"height": 13,
+		"x": 487,
+		"y": 461,
 		"pixelRatio": 1
 	},
 	"pattern-light-circles-17": {
-		"width": 19,
-		"height": 19,
-		"x": 25,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 26,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-dark-circles-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 197,
 		"pixelRatio": 1
 	},
 	"pattern-dark-circles-13": {
-		"width": 15,
-		"height": 15,
-		"x": 1,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 2,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-dark-circles-17": {
-		"width": 19,
-		"height": 19,
-		"x": 46,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 47,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-light-diamonds-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 212,
 		"pixelRatio": 1
 	},
 	"pattern-light-diamonds-13": {
-		"width": 15,
-		"height": 15,
-		"x": 18,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 19,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-light-diamonds-17": {
-		"width": 19,
-		"height": 19,
-		"x": 67,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 68,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-dark-diamonds-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 227,
 		"pixelRatio": 1
 	},
 	"pattern-dark-diamonds-13": {
-		"width": 15,
-		"height": 15,
-		"x": 35,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 36,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-dark-diamonds-17": {
-		"width": 19,
-		"height": 19,
-		"x": 88,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 89,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-light-hatched-thick-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 242,
 		"pixelRatio": 1
 	},
 	"pattern-light-hatched-thick-13": {
-		"width": 15,
-		"height": 15,
-		"x": 52,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 53,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-light-hatched-thick-17": {
-		"width": 19,
-		"height": 19,
-		"x": 109,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 110,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-dark-hatched-thick-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 257,
 		"pixelRatio": 1
 	},
 	"pattern-dark-hatched-thick-13": {
-		"width": 15,
-		"height": 15,
-		"x": 69,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 70,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-dark-hatched-thick-17": {
-		"width": 19,
-		"height": 19,
-		"x": 130,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 131,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-light-hatched-thin-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 272,
 		"pixelRatio": 1
 	},
 	"pattern-light-hatched-thin-13": {
-		"width": 15,
-		"height": 15,
-		"x": 86,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 87,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-light-hatched-thin-17": {
-		"width": 19,
-		"height": 19,
-		"x": 151,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 152,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-dark-hatched-thin-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 287,
 		"pixelRatio": 1
 	},
 	"pattern-dark-hatched-thin-13": {
-		"width": 15,
-		"height": 15,
-		"x": 103,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 104,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-dark-hatched-thin-17": {
-		"width": 19,
-		"height": 19,
-		"x": 172,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 173,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-light-hatched-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 302,
 		"pixelRatio": 1
 	},
 	"pattern-light-hatched-13": {
-		"width": 15,
-		"height": 15,
-		"x": 120,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 121,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-light-hatched-17": {
-		"width": 19,
-		"height": 19,
-		"x": 193,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 194,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-dark-hatched-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 317,
 		"pixelRatio": 1
 	},
 	"pattern-dark-hatched-13": {
-		"width": 15,
-		"height": 15,
-		"x": 137,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 138,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-dark-hatched-17": {
-		"width": 19,
-		"height": 19,
-		"x": 214,
-		"y": 193,
+		"width": 17,
+		"height": 17,
+		"x": 215,
+		"y": 194,
+		"pixelRatio": 1
+	},
+	"pattern-light-hexgrid-11": {
+		"width": 12.701589623186173,
+		"height": 11,
+		"x": 155,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-light-hexgrid-13": {
-		"width": 17.010969554674567,
-		"height": 15,
-		"x": 186,
-		"y": 125,
+		"width": 15.010969554674569,
+		"height": 13,
+		"x": 187,
+		"y": 126,
 		"pixelRatio": 1
 	},
 	"pattern-light-hexgrid-17": {
-		"width": 21.629729417651358,
-		"height": 19,
-		"x": 206,
-		"y": 146,
+		"width": 19.629729417651358,
+		"height": 17,
+		"x": 207,
+		"y": 147,
+		"pixelRatio": 1
+	},
+	"pattern-dark-hexgrid-11": {
+		"width": 12.701589623186173,
+		"height": 11,
+		"x": 172,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-dark-hexgrid-13": {
-		"width": 17.010969554674567,
-		"height": 15,
-		"x": 137,
-		"y": 131,
+		"width": 15.010969554674569,
+		"height": 13,
+		"x": 138,
+		"y": 132,
 		"pixelRatio": 1
 	},
 	"pattern-dark-hexgrid-17": {
-		"width": 21.629729417651358,
-		"height": 19,
-		"x": 162,
-		"y": 125,
+		"width": 19.629729417651358,
+		"height": 17,
+		"x": 163,
+		"y": 126,
+		"pixelRatio": 1
+	},
+	"pattern-light-wave-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 332,
 		"pixelRatio": 1
 	},
 	"pattern-light-wave-13": {
-		"width": 15,
-		"height": 15,
-		"x": 154,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 189,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-light-wave-17": {
-		"width": 19,
-		"height": 19,
-		"x": 1,
-		"y": 217,
+		"width": 17,
+		"height": 17,
+		"x": 2,
+		"y": 218,
+		"pixelRatio": 1
+	},
+	"pattern-dark-wave-11": {
+		"width": 11,
+		"height": 11,
+		"x": 623,
+		"y": 347,
 		"pixelRatio": 1
 	},
 	"pattern-dark-wave-13": {
-		"width": 15,
-		"height": 15,
-		"x": 171,
-		"y": 485,
+		"width": 13,
+		"height": 13,
+		"x": 206,
+		"y": 486,
 		"pixelRatio": 1
 	},
 	"pattern-dark-wave-17": {
-		"width": 19,
-		"height": 19,
-		"x": 22,
-		"y": 217,
+		"width": 17,
+		"height": 17,
+		"x": 23,
+		"y": 218,
 		"pixelRatio": 1
 	},
 	"marking-light-arrow-17": {
 		"width": 6.636364479338996,
 		"height": 19,
-		"x": 697,
-		"y": 456,
+		"x": 467,
+		"y": 457,
 		"pixelRatio": 1
 	},
 	"marking-light-arrow-21": {
 		"width": 7.72727376859523,
 		"height": 23,
 		"x": 697,
-		"y": 436,
+		"y": 676,
 		"pixelRatio": 1
 	},
 	"marking-dark-arrow-17": {
 		"width": 6.636364479338996,
 		"height": 19,
-		"x": 697,
-		"y": 465,
+		"x": 476,
+		"y": 457,
 		"pixelRatio": 1
 	},
 	"marking-dark-arrow-21": {
 		"width": 7.72727376859523,
 		"height": 23,
 		"x": 697,
-		"y": 446,
+		"y": 686,
 		"pixelRatio": 1
 	},
 	"symbol-light-circle-outline-11": {
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 121,
+		"y": 361,
 		"pixelRatio": 1
 	},
 	"symbol-light-circle-outline-13": {
 		"width": 15,
 		"height": 15,
-		"x": 188,
+		"x": 222,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -822,13 +934,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 136,
+		"y": 376,
 		"pixelRatio": 1
 	},
 	"symbol-dark-circle-outline-13": {
 		"width": 15,
 		"height": 15,
-		"x": 205,
+		"x": 239,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -843,13 +955,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 151,
+		"y": 391,
 		"pixelRatio": 1
 	},
 	"symbol-light-circle-13": {
 		"width": 15,
 		"height": 15,
-		"x": 222,
+		"x": 256,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -864,13 +976,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 166,
+		"y": 406,
 		"pixelRatio": 1
 	},
 	"symbol-dark-circle-13": {
 		"width": 15,
 		"height": 15,
-		"x": 239,
+		"x": 273,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -885,13 +997,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 181,
+		"y": 421,
 		"pixelRatio": 1
 	},
 	"symbol-light-cross-outline-13": {
 		"width": 15,
 		"height": 15,
-		"x": 256,
+		"x": 290,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -906,13 +1018,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 196,
+		"y": 436,
 		"pixelRatio": 1
 	},
 	"symbol-dark-cross-outline-13": {
 		"width": 15,
 		"height": 15,
-		"x": 273,
+		"x": 307,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -927,13 +1039,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 211,
+		"y": 451,
 		"pixelRatio": 1
 	},
 	"symbol-light-cross-13": {
 		"width": 15,
 		"height": 15,
-		"x": 290,
+		"x": 324,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -948,13 +1060,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 226,
+		"y": 466,
 		"pixelRatio": 1
 	},
 	"symbol-dark-cross-13": {
 		"width": 15,
 		"height": 15,
-		"x": 307,
+		"x": 341,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -969,13 +1081,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 241,
+		"y": 481,
 		"pixelRatio": 1
 	},
 	"symbol-light-diamond-outline-13": {
 		"width": 15,
 		"height": 15,
-		"x": 324,
+		"x": 358,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -990,13 +1102,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 256,
+		"y": 496,
 		"pixelRatio": 1
 	},
 	"symbol-dark-diamond-outline-13": {
 		"width": 15,
 		"height": 15,
-		"x": 341,
+		"x": 375,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -1011,13 +1123,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 271,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"symbol-light-diamond-13": {
 		"width": 15,
 		"height": 15,
-		"x": 358,
+		"x": 392,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -1032,13 +1144,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 286,
+		"y": 526,
 		"pixelRatio": 1
 	},
 	"symbol-dark-diamond-13": {
 		"width": 15,
 		"height": 15,
-		"x": 375,
+		"x": 409,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -1053,13 +1165,13 @@
 		"width": 12.999998000000362,
 		"height": 13,
 		"x": 622,
-		"y": 301,
+		"y": 541,
 		"pixelRatio": 1
 	},
 	"symbol-light-hexagon-outline-13": {
 		"width": 14.999997636364064,
 		"height": 15,
-		"x": 392,
+		"x": 426,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -1074,13 +1186,13 @@
 		"width": 12.999998000000362,
 		"height": 13,
 		"x": 622,
-		"y": 316,
+		"y": 556,
 		"pixelRatio": 1
 	},
 	"symbol-dark-hexagon-outline-13": {
 		"width": 14.999997636364064,
 		"height": 15,
-		"x": 409,
+		"x": 443,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -1115,7 +1227,7 @@
 	"symbol-dark-hexagon-11": {
 		"width": 13.000009000007363,
 		"height": 13,
-		"x": 324,
+		"x": 358,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -1137,13 +1249,13 @@
 		"width": 12.999998000000362,
 		"height": 13,
 		"x": 622,
-		"y": 331,
+		"y": 571,
 		"pixelRatio": 1
 	},
 	"symbol-light-marker-outline-13": {
 		"width": 14.999997636364064,
 		"height": 15,
-		"x": 426,
+		"x": 460,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -1158,13 +1270,13 @@
 		"width": 12.999998000000362,
 		"height": 13,
 		"x": 622,
-		"y": 346,
+		"y": 586,
 		"pixelRatio": 1
 	},
 	"symbol-dark-marker-outline-13": {
 		"width": 14.999997636364064,
 		"height": 15,
-		"x": 443,
+		"x": 477,
 		"y": 485,
 		"pixelRatio": 1
 	},
@@ -1179,14 +1291,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 622,
-		"y": 361,
+		"y": 601,
 		"pixelRatio": 1
 	},
 	"symbol-light-marker-13": {
 		"width": 15,
 		"height": 15,
-		"x": 460,
-		"y": 485,
+		"x": 503,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"symbol-light-marker-15": {
@@ -1199,15 +1311,15 @@
 	"symbol-dark-marker-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 376,
+		"x": 1,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-dark-marker-13": {
 		"width": 15,
 		"height": 15,
-		"x": 477,
-		"y": 485,
+		"x": 503,
+		"y": 18,
 		"pixelRatio": 1
 	},
 	"symbol-dark-marker-15": {
@@ -1220,15 +1332,15 @@
 	"symbol-light-square-outline-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 391,
+		"x": 16,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-light-square-outline-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 1,
+		"y": 35,
 		"pixelRatio": 1
 	},
 	"symbol-light-square-outline-15": {
@@ -1241,15 +1353,15 @@
 	"symbol-dark-square-outline-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 406,
+		"x": 31,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-dark-square-outline-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 18,
+		"y": 52,
 		"pixelRatio": 1
 	},
 	"symbol-dark-square-outline-15": {
@@ -1262,15 +1374,15 @@
 	"symbol-light-square-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 421,
+		"x": 46,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-light-square-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 35,
+		"y": 69,
 		"pixelRatio": 1
 	},
 	"symbol-light-square-15": {
@@ -1283,15 +1395,15 @@
 	"symbol-dark-square-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 436,
+		"x": 61,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-dark-square-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 52,
+		"y": 86,
 		"pixelRatio": 1
 	},
 	"symbol-dark-square-15": {
@@ -1304,15 +1416,15 @@
 	"symbol-light-star-outline-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 451,
+		"x": 76,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-light-star-outline-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 69,
+		"y": 103,
 		"pixelRatio": 1
 	},
 	"symbol-light-star-outline-15": {
@@ -1325,15 +1437,15 @@
 	"symbol-dark-star-outline-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 466,
+		"x": 91,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-dark-star-outline-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 86,
+		"y": 120,
 		"pixelRatio": 1
 	},
 	"symbol-dark-star-outline-15": {
@@ -1346,15 +1458,15 @@
 	"symbol-light-star-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 481,
+		"x": 106,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-light-star-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 103,
+		"y": 137,
 		"pixelRatio": 1
 	},
 	"symbol-light-star-15": {
@@ -1367,15 +1479,15 @@
 	"symbol-dark-star-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 496,
+		"x": 121,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-dark-star-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 120,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"symbol-dark-star-15": {
@@ -1388,15 +1500,15 @@
 	"symbol-light-triangle-outline-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 511,
+		"x": 136,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-light-triangle-outline-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 137,
+		"y": 171,
 		"pixelRatio": 1
 	},
 	"symbol-light-triangle-outline-15": {
@@ -1409,15 +1521,15 @@
 	"symbol-dark-triangle-outline-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 526,
+		"x": 151,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-dark-triangle-outline-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 154,
+		"y": 188,
 		"pixelRatio": 1
 	},
 	"symbol-dark-triangle-outline-15": {
@@ -1430,15 +1542,15 @@
 	"symbol-light-triangle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 541,
+		"x": 166,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-light-triangle-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 171,
+		"y": 205,
 		"pixelRatio": 1
 	},
 	"symbol-light-triangle-15": {
@@ -1451,15 +1563,15 @@
 	"symbol-dark-triangle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 556,
+		"x": 181,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-dark-triangle-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 188,
+		"y": 222,
 		"pixelRatio": 1
 	},
 	"symbol-dark-triangle-15": {
@@ -1472,15 +1584,15 @@
 	"symbol-light-x-outline-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 571,
+		"x": 196,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-light-x-outline-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 205,
+		"y": 239,
 		"pixelRatio": 1
 	},
 	"symbol-light-x-outline-15": {
@@ -1493,15 +1605,15 @@
 	"symbol-dark-x-outline-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 586,
+		"x": 211,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-dark-x-outline-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 222,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"symbol-dark-x-outline-15": {
@@ -1514,15 +1626,15 @@
 	"symbol-light-x-11": {
 		"width": 13,
 		"height": 13,
-		"x": 622,
-		"y": 601,
+		"x": 226,
+		"y": 621,
 		"pixelRatio": 1
 	},
 	"symbol-light-x-13": {
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 239,
+		"y": 273,
 		"pixelRatio": 1
 	},
 	"symbol-light-x-15": {
@@ -1535,7 +1647,7 @@
 	"symbol-dark-x-11": {
 		"width": 13,
 		"height": 13,
-		"x": 1,
+		"x": 241,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1543,7 +1655,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 256,
+		"y": 290,
 		"pixelRatio": 1
 	},
 	"symbol-dark-x-15": {
@@ -1554,205 +1666,205 @@
 		"pixelRatio": 1
 	},
 	"shield-light-road-1-14": {
-		"width": 16,
-		"height": 16,
-		"x": 417,
-		"y": 466,
+		"width": 14,
+		"height": 14,
+		"x": 418,
+		"y": 467,
 		"pixelRatio": 1
 	},
 	"shield-light-road-1-16": {
-		"width": 18,
-		"height": 18,
-		"x": 83,
-		"y": 217,
+		"width": 16,
+		"height": 16,
+		"x": 84,
+		"y": 218,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-1-14": {
-		"width": 16,
-		"height": 16,
-		"x": 435,
-		"y": 466,
+		"width": 14,
+		"height": 14,
+		"x": 436,
+		"y": 467,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-1-16": {
-		"width": 18,
-		"height": 18,
-		"x": 103,
-		"y": 217,
+		"width": 16,
+		"height": 16,
+		"x": 104,
+		"y": 218,
 		"pixelRatio": 1
 	},
 	"shield-light-road-2-14": {
-		"width": 22,
-		"height": 16,
-		"x": 137,
-		"y": 107,
+		"width": 20,
+		"height": 14,
+		"x": 138,
+		"y": 108,
 		"pixelRatio": 1
 	},
 	"shield-light-road-2-16": {
-		"width": 24.857142857142858,
-		"height": 18,
-		"x": 206,
-		"y": 92,
+		"width": 22.857142857142858,
+		"height": 16,
+		"x": 207,
+		"y": 93,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-2-14": {
-		"width": 22,
-		"height": 16,
-		"x": 1,
-		"y": 193,
+		"width": 20,
+		"height": 14,
+		"x": 2,
+		"y": 194,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-2-16": {
-		"width": 24.857142857142858,
-		"height": 18,
-		"x": 206,
-		"y": 119,
+		"width": 22.857142857142858,
+		"height": 16,
+		"x": 207,
+		"y": 120,
 		"pixelRatio": 1
 	},
 	"shield-light-road-3-14": {
-		"width": 27,
-		"height": 16,
-		"x": 206,
-		"y": 34,
+		"width": 25,
+		"height": 14,
+		"x": 207,
+		"y": 35,
 		"pixelRatio": 1
 	},
 	"shield-light-road-3-16": {
-		"width": 30.571428571428573,
-		"height": 18,
-		"x": 151,
-		"y": 153,
+		"width": 28.571428571428573,
+		"height": 16,
+		"x": 152,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-3-14": {
-		"width": 27,
-		"height": 16,
-		"x": 206,
-		"y": 63,
+		"width": 25,
+		"height": 14,
+		"x": 207,
+		"y": 64,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-3-16": {
-		"width": 30.571428571428573,
-		"height": 18,
-		"x": 206,
-		"y": 1,
+		"width": 28.571428571428573,
+		"height": 16,
+		"x": 207,
+		"y": 2,
 		"pixelRatio": 1
 	},
 	"shield-light-road-4-14": {
-		"width": 33,
-		"height": 16,
-		"x": 81,
-		"y": 153,
+		"width": 31,
+		"height": 14,
+		"x": 82,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"shield-light-road-4-16": {
-		"width": 37.42857142857143,
-		"height": 18,
-		"x": 162,
-		"y": 45,
+		"width": 35.42857142857143,
+		"height": 16,
+		"x": 163,
+		"y": 46,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-4-14": {
-		"width": 33,
-		"height": 16,
-		"x": 116,
-		"y": 153,
+		"width": 31,
+		"height": 14,
+		"x": 117,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-4-16": {
-		"width": 37.42857142857143,
-		"height": 18,
-		"x": 162,
-		"y": 85,
+		"width": 35.42857142857143,
+		"height": 16,
+		"x": 163,
+		"y": 86,
 		"pixelRatio": 1
 	},
 	"shield-light-road-5-14": {
-		"width": 38,
-		"height": 16,
-		"x": 1,
-		"y": 153,
+		"width": 36,
+		"height": 14,
+		"x": 2,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"shield-light-road-5-16": {
-		"width": 43.142857142857146,
-		"height": 18,
-		"x": 1,
-		"y": 107,
+		"width": 41.142857142857146,
+		"height": 16,
+		"x": 2,
+		"y": 108,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-5-14": {
-		"width": 38,
-		"height": 16,
-		"x": 41,
-		"y": 153,
+		"width": 36,
+		"height": 14,
+		"x": 42,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-5-16": {
-		"width": 43.142857142857146,
-		"height": 18,
-		"x": 47,
-		"y": 107,
+		"width": 41.142857142857146,
+		"height": 16,
+		"x": 48,
+		"y": 108,
 		"pixelRatio": 1
 	},
 	"shield-light-road-6-14": {
-		"width": 42,
-		"height": 16,
-		"x": 93,
-		"y": 107,
+		"width": 40,
+		"height": 14,
+		"x": 94,
+		"y": 108,
 		"pixelRatio": 1
 	},
 	"shield-light-road-6-16": {
-		"width": 47.714285714285715,
-		"height": 18,
-		"x": 1,
-		"y": 57,
+		"width": 45.714285714285715,
+		"height": 16,
+		"x": 2,
+		"y": 58,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-6-14": {
-		"width": 42,
-		"height": 16,
-		"x": 162,
-		"y": 1,
+		"width": 40,
+		"height": 14,
+		"x": 163,
+		"y": 2,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-6-16": {
-		"width": 47.714285714285715,
-		"height": 18,
-		"x": 51,
-		"y": 57,
+		"width": 45.714285714285715,
+		"height": 16,
+		"x": 52,
+		"y": 58,
 		"pixelRatio": 1
 	},
 	"shield-light-road-7-14": {
-		"width": 47,
-		"height": 16,
-		"x": 113,
-		"y": 1,
+		"width": 45,
+		"height": 14,
+		"x": 114,
+		"y": 2,
 		"pixelRatio": 1
 	},
 	"shield-light-road-7-16": {
-		"width": 53.42857142857143,
-		"height": 18,
-		"x": 1,
-		"y": 1,
+		"width": 51.42857142857143,
+		"height": 16,
+		"x": 2,
+		"y": 2,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-7-14": {
-		"width": 47,
-		"height": 16,
-		"x": 113,
-		"y": 50,
+		"width": 45,
+		"height": 14,
+		"x": 114,
+		"y": 51,
 		"pixelRatio": 1
 	},
 	"shield-dark-road-7-16": {
-		"width": 53.42857142857143,
-		"height": 18,
-		"x": 57,
-		"y": 1,
+		"width": 51.42857142857143,
+		"height": 16,
+		"x": 58,
+		"y": 2,
 		"pixelRatio": 1
 	},
 	"icon-light-aerialway-11": {
 		"width": 13,
 		"height": 13,
-		"x": 16,
+		"x": 256,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1760,7 +1872,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 273,
+		"y": 307,
 		"pixelRatio": 1
 	},
 	"icon-light-aerialway-15": {
@@ -1773,7 +1885,7 @@
 	"icon-dark-aerialway-11": {
 		"width": 13,
 		"height": 13,
-		"x": 31,
+		"x": 271,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1781,7 +1893,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 290,
+		"y": 324,
 		"pixelRatio": 1
 	},
 	"icon-dark-aerialway-15": {
@@ -1794,7 +1906,7 @@
 	"icon-light-airfield-11": {
 		"width": 13,
 		"height": 13,
-		"x": 46,
+		"x": 286,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1802,7 +1914,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 307,
+		"y": 341,
 		"pixelRatio": 1
 	},
 	"icon-light-airfield-15": {
@@ -1815,7 +1927,7 @@
 	"icon-dark-airfield-11": {
 		"width": 13,
 		"height": 13,
-		"x": 61,
+		"x": 301,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1823,7 +1935,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 324,
+		"y": 358,
 		"pixelRatio": 1
 	},
 	"icon-dark-airfield-15": {
@@ -1836,7 +1948,7 @@
 	"icon-light-airport-11": {
 		"width": 13,
 		"height": 13,
-		"x": 76,
+		"x": 316,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1844,7 +1956,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 341,
+		"y": 375,
 		"pixelRatio": 1
 	},
 	"icon-light-airport-15": {
@@ -1857,7 +1969,7 @@
 	"icon-dark-airport-11": {
 		"width": 13,
 		"height": 13,
-		"x": 91,
+		"x": 331,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1865,7 +1977,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 358,
+		"y": 392,
 		"pixelRatio": 1
 	},
 	"icon-dark-airport-15": {
@@ -1878,7 +1990,7 @@
 	"icon-light-alcohol-shop-11": {
 		"width": 13,
 		"height": 13,
-		"x": 106,
+		"x": 346,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1886,7 +1998,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 375,
+		"y": 409,
 		"pixelRatio": 1
 	},
 	"icon-light-alcohol-shop-15": {
@@ -1899,7 +2011,7 @@
 	"icon-dark-alcohol-shop-11": {
 		"width": 13,
 		"height": 13,
-		"x": 121,
+		"x": 361,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1907,7 +2019,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 392,
+		"y": 426,
 		"pixelRatio": 1
 	},
 	"icon-dark-alcohol-shop-15": {
@@ -1920,7 +2032,7 @@
 	"icon-light-american-football-11": {
 		"width": 13,
 		"height": 13,
-		"x": 136,
+		"x": 376,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1928,7 +2040,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 409,
+		"y": 443,
 		"pixelRatio": 1
 	},
 	"icon-light-american-football-15": {
@@ -1941,7 +2053,7 @@
 	"icon-dark-american-football-11": {
 		"width": 13,
 		"height": 13,
-		"x": 151,
+		"x": 391,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1949,7 +2061,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 426,
+		"y": 460,
 		"pixelRatio": 1
 	},
 	"icon-dark-american-football-15": {
@@ -1962,7 +2074,7 @@
 	"icon-light-amusement-park-11": {
 		"width": 13,
 		"height": 13,
-		"x": 166,
+		"x": 406,
 		"y": 621,
 		"pixelRatio": 1
 	},
@@ -1970,7 +2082,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 503,
-		"y": 443,
+		"y": 477,
 		"pixelRatio": 1
 	},
 	"icon-light-amusement-park-15": {
@@ -1983,15 +2095,15 @@
 	"icon-dark-amusement-park-11": {
 		"width": 13,
 		"height": 13,
-		"x": 181,
+		"x": 421,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-dark-amusement-park-13": {
 		"width": 15,
 		"height": 15,
-		"x": 503,
-		"y": 460,
+		"x": 1,
+		"y": 502,
 		"pixelRatio": 1
 	},
 	"icon-dark-amusement-park-15": {
@@ -2004,15 +2116,15 @@
 	"icon-light-animal-shelter-11": {
 		"width": 13,
 		"height": 13,
-		"x": 196,
+		"x": 436,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-light-animal-shelter-13": {
 		"width": 15,
 		"height": 15,
-		"x": 503,
-		"y": 477,
+		"x": 18,
+		"y": 502,
 		"pixelRatio": 1
 	},
 	"icon-light-animal-shelter-15": {
@@ -2025,14 +2137,14 @@
 	"icon-dark-animal-shelter-11": {
 		"width": 13,
 		"height": 13,
-		"x": 211,
+		"x": 451,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-dark-animal-shelter-13": {
 		"width": 15,
 		"height": 15,
-		"x": 1,
+		"x": 35,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2046,14 +2158,14 @@
 	"icon-light-aquarium-11": {
 		"width": 13,
 		"height": 13,
-		"x": 226,
+		"x": 466,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-light-aquarium-13": {
 		"width": 15,
 		"height": 15,
-		"x": 18,
+		"x": 52,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2067,14 +2179,14 @@
 	"icon-dark-aquarium-11": {
 		"width": 13,
 		"height": 13,
-		"x": 241,
+		"x": 481,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-dark-aquarium-13": {
 		"width": 15,
 		"height": 15,
-		"x": 35,
+		"x": 69,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2088,14 +2200,14 @@
 	"icon-light-arrow-11": {
 		"width": 13,
 		"height": 13,
-		"x": 256,
+		"x": 496,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-light-arrow-13": {
 		"width": 15,
 		"height": 15,
-		"x": 52,
+		"x": 86,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2109,14 +2221,14 @@
 	"icon-dark-arrow-11": {
 		"width": 13,
 		"height": 13,
-		"x": 271,
+		"x": 511,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-dark-arrow-13": {
 		"width": 15,
 		"height": 15,
-		"x": 69,
+		"x": 103,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2130,14 +2242,14 @@
 	"icon-light-art-gallery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 286,
+		"x": 526,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-light-art-gallery-13": {
 		"width": 15,
 		"height": 15,
-		"x": 86,
+		"x": 120,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2151,14 +2263,14 @@
 	"icon-dark-art-gallery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 301,
+		"x": 541,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-dark-art-gallery-13": {
 		"width": 15,
 		"height": 15,
-		"x": 103,
+		"x": 137,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2172,14 +2284,14 @@
 	"icon-light-attraction-11": {
 		"width": 13,
 		"height": 13,
-		"x": 316,
+		"x": 556,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-light-attraction-13": {
 		"width": 15,
 		"height": 15,
-		"x": 120,
+		"x": 154,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2193,14 +2305,14 @@
 	"icon-dark-attraction-11": {
 		"width": 13,
 		"height": 13,
-		"x": 331,
+		"x": 571,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-dark-attraction-13": {
 		"width": 15,
 		"height": 15,
-		"x": 137,
+		"x": 171,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2214,14 +2326,14 @@
 	"icon-light-bakery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 346,
+		"x": 586,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-light-bakery-13": {
 		"width": 15,
 		"height": 15,
-		"x": 154,
+		"x": 188,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2235,14 +2347,14 @@
 	"icon-dark-bakery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 361,
+		"x": 601,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-dark-bakery-13": {
 		"width": 15,
 		"height": 15,
-		"x": 171,
+		"x": 205,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2256,14 +2368,14 @@
 	"icon-light-bank-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 376,
+		"x": 616,
 		"y": 621,
 		"pixelRatio": 1
 	},
 	"icon-light-bank-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 188,
+		"x": 222,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2277,14 +2389,14 @@
 	"icon-dark-bank-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 391,
-		"y": 621,
+		"x": 637,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-dark-bank-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 205,
+		"x": 239,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2298,14 +2410,14 @@
 	"icon-light-bank-11": {
 		"width": 13,
 		"height": 13,
-		"x": 406,
-		"y": 621,
+		"x": 637,
+		"y": 16,
 		"pixelRatio": 1
 	},
 	"icon-light-bank-13": {
 		"width": 15,
 		"height": 15,
-		"x": 222,
+		"x": 256,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2319,14 +2431,14 @@
 	"icon-dark-bank-11": {
 		"width": 13,
 		"height": 13,
-		"x": 421,
-		"y": 621,
+		"x": 637,
+		"y": 31,
 		"pixelRatio": 1
 	},
 	"icon-dark-bank-13": {
 		"width": 15,
 		"height": 15,
-		"x": 239,
+		"x": 273,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2340,14 +2452,14 @@
 	"icon-light-bar-11": {
 		"width": 13,
 		"height": 13,
-		"x": 436,
-		"y": 621,
+		"x": 637,
+		"y": 46,
 		"pixelRatio": 1
 	},
 	"icon-light-bar-13": {
 		"width": 15,
 		"height": 15,
-		"x": 256,
+		"x": 290,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2361,14 +2473,14 @@
 	"icon-dark-bar-11": {
 		"width": 13,
 		"height": 13,
-		"x": 451,
-		"y": 621,
+		"x": 637,
+		"y": 61,
 		"pixelRatio": 1
 	},
 	"icon-dark-bar-13": {
 		"width": 15,
 		"height": 15,
-		"x": 273,
+		"x": 307,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2382,14 +2494,14 @@
 	"icon-light-barrier-11": {
 		"width": 13,
 		"height": 13,
-		"x": 466,
-		"y": 621,
+		"x": 637,
+		"y": 76,
 		"pixelRatio": 1
 	},
 	"icon-light-barrier-13": {
 		"width": 15,
 		"height": 15,
-		"x": 290,
+		"x": 324,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2403,14 +2515,14 @@
 	"icon-dark-barrier-11": {
 		"width": 13,
 		"height": 13,
-		"x": 481,
-		"y": 621,
+		"x": 637,
+		"y": 91,
 		"pixelRatio": 1
 	},
 	"icon-dark-barrier-13": {
 		"width": 15,
 		"height": 15,
-		"x": 307,
+		"x": 341,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2424,14 +2536,14 @@
 	"icon-light-baseball-11": {
 		"width": 13,
 		"height": 13,
-		"x": 496,
-		"y": 621,
+		"x": 637,
+		"y": 106,
 		"pixelRatio": 1
 	},
 	"icon-light-baseball-13": {
 		"width": 15,
 		"height": 15,
-		"x": 324,
+		"x": 358,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2445,14 +2557,14 @@
 	"icon-dark-baseball-11": {
 		"width": 13,
 		"height": 13,
-		"x": 511,
-		"y": 621,
+		"x": 637,
+		"y": 121,
 		"pixelRatio": 1
 	},
 	"icon-dark-baseball-13": {
 		"width": 15,
 		"height": 15,
-		"x": 341,
+		"x": 375,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2466,14 +2578,14 @@
 	"icon-light-basketball-11": {
 		"width": 13,
 		"height": 13,
-		"x": 526,
-		"y": 621,
+		"x": 637,
+		"y": 136,
 		"pixelRatio": 1
 	},
 	"icon-light-basketball-13": {
 		"width": 15,
 		"height": 15,
-		"x": 358,
+		"x": 392,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2487,14 +2599,14 @@
 	"icon-dark-basketball-11": {
 		"width": 13,
 		"height": 13,
-		"x": 541,
-		"y": 621,
+		"x": 637,
+		"y": 151,
 		"pixelRatio": 1
 	},
 	"icon-dark-basketball-13": {
 		"width": 15,
 		"height": 15,
-		"x": 375,
+		"x": 409,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2508,14 +2620,14 @@
 	"icon-light-bbq-11": {
 		"width": 13,
 		"height": 13,
-		"x": 556,
-		"y": 621,
+		"x": 637,
+		"y": 166,
 		"pixelRatio": 1
 	},
 	"icon-light-bbq-13": {
 		"width": 15,
 		"height": 15,
-		"x": 392,
+		"x": 426,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2529,14 +2641,14 @@
 	"icon-dark-bbq-11": {
 		"width": 13,
 		"height": 13,
-		"x": 571,
-		"y": 621,
+		"x": 637,
+		"y": 181,
 		"pixelRatio": 1
 	},
 	"icon-dark-bbq-13": {
 		"width": 15,
 		"height": 15,
-		"x": 409,
+		"x": 443,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2550,14 +2662,14 @@
 	"icon-light-beach-11": {
 		"width": 13,
 		"height": 13,
-		"x": 586,
-		"y": 621,
+		"x": 637,
+		"y": 196,
 		"pixelRatio": 1
 	},
 	"icon-light-beach-13": {
 		"width": 15,
 		"height": 15,
-		"x": 426,
+		"x": 460,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2571,14 +2683,14 @@
 	"icon-dark-beach-11": {
 		"width": 13,
 		"height": 13,
-		"x": 601,
-		"y": 621,
+		"x": 637,
+		"y": 211,
 		"pixelRatio": 1
 	},
 	"icon-dark-beach-13": {
 		"width": 15,
 		"height": 15,
-		"x": 443,
+		"x": 477,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2592,14 +2704,14 @@
 	"icon-light-beer-11": {
 		"width": 13,
 		"height": 13,
-		"x": 616,
-		"y": 621,
+		"x": 637,
+		"y": 226,
 		"pixelRatio": 1
 	},
 	"icon-light-beer-13": {
 		"width": 15,
 		"height": 15,
-		"x": 460,
+		"x": 494,
 		"y": 502,
 		"pixelRatio": 1
 	},
@@ -2614,14 +2726,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 1,
+		"y": 241,
 		"pixelRatio": 1
 	},
 	"icon-dark-beer-13": {
 		"width": 15,
 		"height": 15,
-		"x": 477,
-		"y": 502,
+		"x": 520,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-dark-beer-15": {
@@ -2635,14 +2747,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 16,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-light-bicycle-share-13": {
 		"width": 15,
 		"height": 15,
-		"x": 494,
-		"y": 502,
+		"x": 520,
+		"y": 18,
 		"pixelRatio": 1
 	},
 	"icon-light-bicycle-share-15": {
@@ -2656,14 +2768,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 31,
+		"y": 271,
 		"pixelRatio": 1
 	},
 	"icon-dark-bicycle-share-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 1,
+		"y": 35,
 		"pixelRatio": 1
 	},
 	"icon-dark-bicycle-share-15": {
@@ -2677,14 +2789,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 46,
+		"y": 286,
 		"pixelRatio": 1
 	},
 	"icon-light-bicycle-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 18,
+		"y": 52,
 		"pixelRatio": 1
 	},
 	"icon-light-bicycle-15": {
@@ -2698,14 +2810,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 61,
+		"y": 301,
 		"pixelRatio": 1
 	},
 	"icon-dark-bicycle-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 35,
+		"y": 69,
 		"pixelRatio": 1
 	},
 	"icon-dark-bicycle-15": {
@@ -2719,14 +2831,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 76,
+		"y": 316,
 		"pixelRatio": 1
 	},
 	"icon-light-blood-bank-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 52,
+		"y": 86,
 		"pixelRatio": 1
 	},
 	"icon-light-blood-bank-15": {
@@ -2740,14 +2852,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 91,
+		"y": 331,
 		"pixelRatio": 1
 	},
 	"icon-dark-blood-bank-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 69,
+		"y": 103,
 		"pixelRatio": 1
 	},
 	"icon-dark-blood-bank-15": {
@@ -2761,14 +2873,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 106,
+		"y": 346,
 		"pixelRatio": 1
 	},
 	"icon-light-bowling-alley-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 86,
+		"y": 120,
 		"pixelRatio": 1
 	},
 	"icon-light-bowling-alley-15": {
@@ -2782,14 +2894,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 121,
+		"y": 361,
 		"pixelRatio": 1
 	},
 	"icon-dark-bowling-alley-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 103,
+		"y": 137,
 		"pixelRatio": 1
 	},
 	"icon-dark-bowling-alley-15": {
@@ -2803,14 +2915,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 136,
+		"y": 376,
 		"pixelRatio": 1
 	},
 	"icon-light-bridge-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 120,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"icon-light-bridge-15": {
@@ -2824,14 +2936,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 151,
+		"y": 391,
 		"pixelRatio": 1
 	},
 	"icon-dark-bridge-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 137,
+		"y": 171,
 		"pixelRatio": 1
 	},
 	"icon-dark-bridge-15": {
@@ -2845,14 +2957,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 166,
+		"y": 406,
 		"pixelRatio": 1
 	},
 	"icon-light-building-alt1-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 154,
+		"y": 188,
 		"pixelRatio": 1
 	},
 	"icon-light-building-alt1-15": {
@@ -2866,14 +2978,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 181,
+		"y": 421,
 		"pixelRatio": 1
 	},
 	"icon-dark-building-alt1-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 171,
+		"y": 205,
 		"pixelRatio": 1
 	},
 	"icon-dark-building-alt1-15": {
@@ -2887,14 +2999,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 196,
+		"y": 436,
 		"pixelRatio": 1
 	},
 	"icon-light-building-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 188,
+		"y": 222,
 		"pixelRatio": 1
 	},
 	"icon-light-building-15": {
@@ -2908,14 +3020,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 211,
+		"y": 451,
 		"pixelRatio": 1
 	},
 	"icon-dark-building-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 205,
+		"y": 239,
 		"pixelRatio": 1
 	},
 	"icon-dark-building-15": {
@@ -2929,14 +3041,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 226,
+		"y": 466,
 		"pixelRatio": 1
 	},
 	"icon-light-bus-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 222,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-light-bus-15": {
@@ -2950,14 +3062,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 241,
+		"y": 481,
 		"pixelRatio": 1
 	},
 	"icon-dark-bus-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 239,
+		"y": 273,
 		"pixelRatio": 1
 	},
 	"icon-dark-bus-15": {
@@ -2971,14 +3083,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 256,
+		"y": 496,
 		"pixelRatio": 1
 	},
 	"icon-light-cafe-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 256,
+		"y": 290,
 		"pixelRatio": 1
 	},
 	"icon-light-cafe-15": {
@@ -2992,14 +3104,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 271,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-dark-cafe-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 273,
+		"y": 307,
 		"pixelRatio": 1
 	},
 	"icon-dark-cafe-15": {
@@ -3013,14 +3125,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 286,
+		"y": 526,
 		"pixelRatio": 1
 	},
 	"icon-light-campsite-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 290,
+		"y": 324,
 		"pixelRatio": 1
 	},
 	"icon-light-campsite-15": {
@@ -3034,14 +3146,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 301,
+		"y": 541,
 		"pixelRatio": 1
 	},
 	"icon-dark-campsite-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 307,
+		"y": 341,
 		"pixelRatio": 1
 	},
 	"icon-dark-campsite-15": {
@@ -3055,14 +3167,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 316,
+		"y": 556,
 		"pixelRatio": 1
 	},
 	"icon-light-car-rental-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 324,
+		"y": 358,
 		"pixelRatio": 1
 	},
 	"icon-light-car-rental-15": {
@@ -3076,14 +3188,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 331,
+		"y": 571,
 		"pixelRatio": 1
 	},
 	"icon-dark-car-rental-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 341,
+		"y": 375,
 		"pixelRatio": 1
 	},
 	"icon-dark-car-rental-15": {
@@ -3097,14 +3209,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 346,
+		"y": 586,
 		"pixelRatio": 1
 	},
 	"icon-light-car-repair-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 358,
+		"y": 392,
 		"pixelRatio": 1
 	},
 	"icon-light-car-repair-15": {
@@ -3118,14 +3230,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 361,
+		"y": 601,
 		"pixelRatio": 1
 	},
 	"icon-dark-car-repair-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 375,
+		"y": 409,
 		"pixelRatio": 1
 	},
 	"icon-dark-car-repair-15": {
@@ -3139,14 +3251,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 637,
-		"y": 376,
+		"y": 616,
 		"pixelRatio": 1
 	},
 	"icon-light-car-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 392,
+		"y": 426,
 		"pixelRatio": 1
 	},
 	"icon-light-car-15": {
@@ -3159,15 +3271,15 @@
 	"icon-dark-car-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 391,
+		"x": 1,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-car-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 409,
+		"y": 443,
 		"pixelRatio": 1
 	},
 	"icon-dark-car-15": {
@@ -3180,15 +3292,15 @@
 	"icon-light-casino-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 406,
+		"x": 16,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-casino-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 426,
+		"y": 460,
 		"pixelRatio": 1
 	},
 	"icon-light-casino-15": {
@@ -3201,15 +3313,15 @@
 	"icon-dark-casino-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 421,
+		"x": 31,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-casino-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 443,
+		"y": 477,
 		"pixelRatio": 1
 	},
 	"icon-dark-casino-15": {
@@ -3222,15 +3334,15 @@
 	"icon-light-castle-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 436,
+		"x": 46,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-castle-JP-13": {
 		"width": 15,
 		"height": 15,
 		"x": 520,
-		"y": 460,
+		"y": 494,
 		"pixelRatio": 1
 	},
 	"icon-light-castle-JP-15": {
@@ -3243,15 +3355,15 @@
 	"icon-dark-castle-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 451,
+		"x": 61,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-castle-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 520,
-		"y": 477,
+		"x": 1,
+		"y": 519,
 		"pixelRatio": 1
 	},
 	"icon-dark-castle-JP-15": {
@@ -3264,15 +3376,15 @@
 	"icon-light-castle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 466,
+		"x": 76,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-castle-13": {
 		"width": 15,
 		"height": 15,
-		"x": 520,
-		"y": 494,
+		"x": 18,
+		"y": 519,
 		"pixelRatio": 1
 	},
 	"icon-light-castle-15": {
@@ -3285,14 +3397,14 @@
 	"icon-dark-castle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 481,
+		"x": 91,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-castle-13": {
 		"width": 15,
 		"height": 15,
-		"x": 1,
+		"x": 35,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3306,14 +3418,14 @@
 	"icon-light-caution-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 496,
+		"x": 106,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-caution-13": {
 		"width": 15,
 		"height": 15,
-		"x": 18,
+		"x": 52,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3327,14 +3439,14 @@
 	"icon-dark-caution-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 511,
+		"x": 121,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-caution-13": {
 		"width": 15,
 		"height": 15,
-		"x": 35,
+		"x": 69,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3348,14 +3460,14 @@
 	"icon-light-cemetery-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 526,
+		"x": 136,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-cemetery-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 52,
+		"x": 86,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3369,14 +3481,14 @@
 	"icon-dark-cemetery-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 541,
+		"x": 151,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-cemetery-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 69,
+		"x": 103,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3390,14 +3502,14 @@
 	"icon-light-cemetery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 556,
+		"x": 166,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-cemetery-13": {
 		"width": 15,
 		"height": 15,
-		"x": 86,
+		"x": 120,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3411,14 +3523,14 @@
 	"icon-dark-cemetery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 571,
+		"x": 181,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-cemetery-13": {
 		"width": 15,
 		"height": 15,
-		"x": 103,
+		"x": 137,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3432,14 +3544,14 @@
 	"icon-light-charging-station-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 586,
+		"x": 196,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-charging-station-13": {
 		"width": 15,
 		"height": 15,
-		"x": 120,
+		"x": 154,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3453,14 +3565,14 @@
 	"icon-dark-charging-station-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 601,
+		"x": 211,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-charging-station-13": {
 		"width": 15,
 		"height": 15,
-		"x": 137,
+		"x": 171,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3474,14 +3586,14 @@
 	"icon-light-cinema-11": {
 		"width": 13,
 		"height": 13,
-		"x": 637,
-		"y": 616,
+		"x": 226,
+		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-cinema-13": {
 		"width": 15,
 		"height": 15,
-		"x": 154,
+		"x": 188,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3495,14 +3607,14 @@
 	"icon-dark-cinema-11": {
 		"width": 13,
 		"height": 13,
-		"x": 1,
+		"x": 241,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-cinema-13": {
 		"width": 15,
 		"height": 15,
-		"x": 171,
+		"x": 205,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3516,14 +3628,14 @@
 	"icon-light-circle-stroked-11": {
 		"width": 13,
 		"height": 13,
-		"x": 16,
+		"x": 256,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-circle-stroked-13": {
 		"width": 15,
 		"height": 15,
-		"x": 188,
+		"x": 222,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3537,14 +3649,14 @@
 	"icon-dark-circle-stroked-11": {
 		"width": 13,
 		"height": 13,
-		"x": 31,
+		"x": 271,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-circle-stroked-13": {
 		"width": 15,
 		"height": 15,
-		"x": 205,
+		"x": 239,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3558,14 +3670,14 @@
 	"icon-light-circle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 46,
+		"x": 286,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-circle-13": {
 		"width": 15,
 		"height": 15,
-		"x": 222,
+		"x": 256,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3579,14 +3691,14 @@
 	"icon-dark-circle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 61,
+		"x": 301,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-circle-13": {
 		"width": 15,
 		"height": 15,
-		"x": 239,
+		"x": 273,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3600,14 +3712,14 @@
 	"icon-light-city-11": {
 		"width": 13,
 		"height": 13,
-		"x": 76,
+		"x": 316,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-city-13": {
 		"width": 15,
 		"height": 15,
-		"x": 256,
+		"x": 290,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3621,14 +3733,14 @@
 	"icon-dark-city-11": {
 		"width": 13,
 		"height": 13,
-		"x": 91,
+		"x": 331,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-city-13": {
 		"width": 15,
 		"height": 15,
-		"x": 273,
+		"x": 307,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3642,14 +3754,14 @@
 	"icon-light-clothing-store-11": {
 		"width": 13,
 		"height": 13,
-		"x": 106,
+		"x": 346,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-clothing-store-13": {
 		"width": 15,
 		"height": 15,
-		"x": 290,
+		"x": 324,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3663,14 +3775,14 @@
 	"icon-dark-clothing-store-11": {
 		"width": 13,
 		"height": 13,
-		"x": 121,
+		"x": 361,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-clothing-store-13": {
 		"width": 15,
 		"height": 15,
-		"x": 307,
+		"x": 341,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3684,14 +3796,14 @@
 	"icon-light-college-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 136,
+		"x": 376,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-college-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 324,
+		"x": 358,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3705,14 +3817,14 @@
 	"icon-dark-college-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 151,
+		"x": 391,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-college-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 341,
+		"x": 375,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3726,14 +3838,14 @@
 	"icon-light-college-11": {
 		"width": 13,
 		"height": 13,
-		"x": 166,
+		"x": 406,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-college-13": {
 		"width": 15,
 		"height": 15,
-		"x": 358,
+		"x": 392,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3747,14 +3859,14 @@
 	"icon-dark-college-11": {
 		"width": 13,
 		"height": 13,
-		"x": 181,
+		"x": 421,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-college-13": {
 		"width": 15,
 		"height": 15,
-		"x": 375,
+		"x": 409,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3768,14 +3880,14 @@
 	"icon-light-commercial-11": {
 		"width": 13,
 		"height": 13,
-		"x": 196,
+		"x": 436,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-commercial-13": {
 		"width": 15,
 		"height": 15,
-		"x": 392,
+		"x": 426,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3789,14 +3901,14 @@
 	"icon-dark-commercial-11": {
 		"width": 13,
 		"height": 13,
-		"x": 211,
+		"x": 451,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-commercial-13": {
 		"width": 15,
 		"height": 15,
-		"x": 409,
+		"x": 443,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3810,14 +3922,14 @@
 	"icon-light-communications-tower-11": {
 		"width": 13,
 		"height": 13,
-		"x": 226,
+		"x": 466,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-communications-tower-13": {
 		"width": 15,
 		"height": 15,
-		"x": 426,
+		"x": 460,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3831,14 +3943,14 @@
 	"icon-dark-communications-tower-11": {
 		"width": 13,
 		"height": 13,
-		"x": 241,
+		"x": 481,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-communications-tower-13": {
 		"width": 15,
 		"height": 15,
-		"x": 443,
+		"x": 477,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3852,14 +3964,14 @@
 	"icon-light-confectionery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 256,
+		"x": 496,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-confectionery-13": {
 		"width": 15,
 		"height": 15,
-		"x": 460,
+		"x": 494,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3873,14 +3985,14 @@
 	"icon-dark-confectionery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 271,
+		"x": 511,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-confectionery-13": {
 		"width": 15,
 		"height": 15,
-		"x": 477,
+		"x": 511,
 		"y": 519,
 		"pixelRatio": 1
 	},
@@ -3894,15 +4006,15 @@
 	"icon-light-construction-11": {
 		"width": 13,
 		"height": 13,
-		"x": 286,
+		"x": 526,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-light-construction-13": {
 		"width": 15,
 		"height": 15,
-		"x": 494,
-		"y": 519,
+		"x": 537,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-light-construction-15": {
@@ -3915,15 +4027,15 @@
 	"icon-dark-construction-11": {
 		"width": 13,
 		"height": 13,
-		"x": 301,
+		"x": 541,
 		"y": 636,
 		"pixelRatio": 1
 	},
 	"icon-dark-construction-13": {
 		"width": 15,
 		"height": 15,
-		"x": 511,
-		"y": 519,
+		"x": 537,
+		"y": 18,
 		"pixelRatio": 1
 	},
 	"icon-dark-construction-15": {
@@ -3936,7 +4048,7 @@
 	"icon-light-convenience-11": {
 		"width": 13,
 		"height": 13,
-		"x": 316,
+		"x": 556,
 		"y": 636,
 		"pixelRatio": 1
 	},
@@ -3944,7 +4056,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 1,
+		"y": 35,
 		"pixelRatio": 1
 	},
 	"icon-light-convenience-15": {
@@ -3957,7 +4069,7 @@
 	"icon-dark-convenience-11": {
 		"width": 13,
 		"height": 13,
-		"x": 331,
+		"x": 571,
 		"y": 636,
 		"pixelRatio": 1
 	},
@@ -3965,7 +4077,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 18,
+		"y": 52,
 		"pixelRatio": 1
 	},
 	"icon-dark-convenience-15": {
@@ -3978,7 +4090,7 @@
 	"icon-light-cricket-11": {
 		"width": 13,
 		"height": 13,
-		"x": 346,
+		"x": 586,
 		"y": 636,
 		"pixelRatio": 1
 	},
@@ -3986,7 +4098,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 35,
+		"y": 69,
 		"pixelRatio": 1
 	},
 	"icon-light-cricket-15": {
@@ -3999,7 +4111,7 @@
 	"icon-dark-cricket-11": {
 		"width": 13,
 		"height": 13,
-		"x": 361,
+		"x": 601,
 		"y": 636,
 		"pixelRatio": 1
 	},
@@ -4007,7 +4119,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 52,
+		"y": 86,
 		"pixelRatio": 1
 	},
 	"icon-dark-cricket-15": {
@@ -4020,7 +4132,7 @@
 	"icon-light-cross-11": {
 		"width": 13,
 		"height": 13,
-		"x": 376,
+		"x": 616,
 		"y": 636,
 		"pixelRatio": 1
 	},
@@ -4028,7 +4140,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 69,
+		"y": 103,
 		"pixelRatio": 1
 	},
 	"icon-light-cross-15": {
@@ -4041,7 +4153,7 @@
 	"icon-dark-cross-11": {
 		"width": 13,
 		"height": 13,
-		"x": 391,
+		"x": 631,
 		"y": 636,
 		"pixelRatio": 1
 	},
@@ -4049,7 +4161,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 86,
+		"y": 120,
 		"pixelRatio": 1
 	},
 	"icon-dark-cross-15": {
@@ -4062,15 +4174,15 @@
 	"icon-light-dam-11": {
 		"width": 13,
 		"height": 13,
-		"x": 406,
-		"y": 636,
+		"x": 652,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-light-dam-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 103,
+		"y": 137,
 		"pixelRatio": 1
 	},
 	"icon-light-dam-15": {
@@ -4083,15 +4195,15 @@
 	"icon-dark-dam-11": {
 		"width": 13,
 		"height": 13,
-		"x": 421,
-		"y": 636,
+		"x": 652,
+		"y": 16,
 		"pixelRatio": 1
 	},
 	"icon-dark-dam-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 120,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"icon-dark-dam-15": {
@@ -4104,15 +4216,15 @@
 	"icon-light-danger-11": {
 		"width": 13,
 		"height": 13,
-		"x": 436,
-		"y": 636,
+		"x": 652,
+		"y": 31,
 		"pixelRatio": 1
 	},
 	"icon-light-danger-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 137,
+		"y": 171,
 		"pixelRatio": 1
 	},
 	"icon-light-danger-15": {
@@ -4125,15 +4237,15 @@
 	"icon-dark-danger-11": {
 		"width": 13,
 		"height": 13,
-		"x": 451,
-		"y": 636,
+		"x": 652,
+		"y": 46,
 		"pixelRatio": 1
 	},
 	"icon-dark-danger-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 154,
+		"y": 188,
 		"pixelRatio": 1
 	},
 	"icon-dark-danger-15": {
@@ -4146,15 +4258,15 @@
 	"icon-light-defibrillator-11": {
 		"width": 13,
 		"height": 13,
-		"x": 466,
-		"y": 636,
+		"x": 652,
+		"y": 61,
 		"pixelRatio": 1
 	},
 	"icon-light-defibrillator-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 171,
+		"y": 205,
 		"pixelRatio": 1
 	},
 	"icon-light-defibrillator-15": {
@@ -4167,15 +4279,15 @@
 	"icon-dark-defibrillator-11": {
 		"width": 13,
 		"height": 13,
-		"x": 481,
-		"y": 636,
+		"x": 652,
+		"y": 76,
 		"pixelRatio": 1
 	},
 	"icon-dark-defibrillator-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 188,
+		"y": 222,
 		"pixelRatio": 1
 	},
 	"icon-dark-defibrillator-15": {
@@ -4188,15 +4300,15 @@
 	"icon-light-dentist-11": {
 		"width": 13,
 		"height": 13,
-		"x": 496,
-		"y": 636,
+		"x": 652,
+		"y": 91,
 		"pixelRatio": 1
 	},
 	"icon-light-dentist-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 205,
+		"y": 239,
 		"pixelRatio": 1
 	},
 	"icon-light-dentist-15": {
@@ -4209,15 +4321,15 @@
 	"icon-dark-dentist-11": {
 		"width": 13,
 		"height": 13,
-		"x": 511,
-		"y": 636,
+		"x": 652,
+		"y": 106,
 		"pixelRatio": 1
 	},
 	"icon-dark-dentist-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 222,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-dark-dentist-15": {
@@ -4230,15 +4342,15 @@
 	"icon-light-diamond-11": {
 		"width": 13,
 		"height": 13,
-		"x": 526,
-		"y": 636,
+		"x": 652,
+		"y": 121,
 		"pixelRatio": 1
 	},
 	"icon-light-diamond-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 239,
+		"y": 273,
 		"pixelRatio": 1
 	},
 	"icon-light-diamond-15": {
@@ -4251,15 +4363,15 @@
 	"icon-dark-diamond-11": {
 		"width": 13,
 		"height": 13,
-		"x": 541,
-		"y": 636,
+		"x": 652,
+		"y": 136,
 		"pixelRatio": 1
 	},
 	"icon-dark-diamond-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 256,
+		"y": 290,
 		"pixelRatio": 1
 	},
 	"icon-dark-diamond-15": {
@@ -4272,15 +4384,15 @@
 	"icon-light-doctor-11": {
 		"width": 13,
 		"height": 13,
-		"x": 556,
-		"y": 636,
+		"x": 652,
+		"y": 151,
 		"pixelRatio": 1
 	},
 	"icon-light-doctor-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 273,
+		"y": 307,
 		"pixelRatio": 1
 	},
 	"icon-light-doctor-15": {
@@ -4293,15 +4405,15 @@
 	"icon-dark-doctor-11": {
 		"width": 13,
 		"height": 13,
-		"x": 571,
-		"y": 636,
+		"x": 652,
+		"y": 166,
 		"pixelRatio": 1
 	},
 	"icon-dark-doctor-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 290,
+		"y": 324,
 		"pixelRatio": 1
 	},
 	"icon-dark-doctor-15": {
@@ -4314,15 +4426,15 @@
 	"icon-light-dog-park-11": {
 		"width": 13,
 		"height": 13,
-		"x": 586,
-		"y": 636,
+		"x": 652,
+		"y": 181,
 		"pixelRatio": 1
 	},
 	"icon-light-dog-park-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 307,
+		"y": 341,
 		"pixelRatio": 1
 	},
 	"icon-light-dog-park-15": {
@@ -4335,15 +4447,15 @@
 	"icon-dark-dog-park-11": {
 		"width": 13,
 		"height": 13,
-		"x": 601,
-		"y": 636,
+		"x": 652,
+		"y": 196,
 		"pixelRatio": 1
 	},
 	"icon-dark-dog-park-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 324,
+		"y": 358,
 		"pixelRatio": 1
 	},
 	"icon-dark-dog-park-15": {
@@ -4356,15 +4468,15 @@
 	"icon-light-drinking-water-11": {
 		"width": 13,
 		"height": 13,
-		"x": 616,
-		"y": 636,
+		"x": 652,
+		"y": 211,
 		"pixelRatio": 1
 	},
 	"icon-light-drinking-water-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 341,
+		"y": 375,
 		"pixelRatio": 1
 	},
 	"icon-light-drinking-water-15": {
@@ -4377,15 +4489,15 @@
 	"icon-dark-drinking-water-11": {
 		"width": 13,
 		"height": 13,
-		"x": 631,
-		"y": 636,
+		"x": 652,
+		"y": 226,
 		"pixelRatio": 1
 	},
 	"icon-dark-drinking-water-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 358,
+		"y": 392,
 		"pixelRatio": 1
 	},
 	"icon-dark-drinking-water-15": {
@@ -4399,14 +4511,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 1,
+		"y": 241,
 		"pixelRatio": 1
 	},
 	"icon-light-elevator-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 375,
+		"y": 409,
 		"pixelRatio": 1
 	},
 	"icon-light-elevator-15": {
@@ -4420,14 +4532,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 16,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-dark-elevator-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 392,
+		"y": 426,
 		"pixelRatio": 1
 	},
 	"icon-dark-elevator-15": {
@@ -4441,14 +4553,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 31,
+		"y": 271,
 		"pixelRatio": 1
 	},
 	"icon-light-embassy-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 409,
+		"y": 443,
 		"pixelRatio": 1
 	},
 	"icon-light-embassy-15": {
@@ -4462,14 +4574,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 46,
+		"y": 286,
 		"pixelRatio": 1
 	},
 	"icon-dark-embassy-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 426,
+		"y": 460,
 		"pixelRatio": 1
 	},
 	"icon-dark-embassy-15": {
@@ -4483,14 +4595,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 61,
+		"y": 301,
 		"pixelRatio": 1
 	},
 	"icon-light-emergency-phone-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 443,
+		"y": 477,
 		"pixelRatio": 1
 	},
 	"icon-light-emergency-phone-15": {
@@ -4504,14 +4616,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 76,
+		"y": 316,
 		"pixelRatio": 1
 	},
 	"icon-dark-emergency-phone-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 460,
+		"y": 494,
 		"pixelRatio": 1
 	},
 	"icon-dark-emergency-phone-15": {
@@ -4525,14 +4637,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 91,
+		"y": 331,
 		"pixelRatio": 1
 	},
 	"icon-light-entrance-alt1-13": {
 		"width": 15,
 		"height": 15,
 		"x": 537,
-		"y": 477,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-light-entrance-alt1-15": {
@@ -4546,14 +4658,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 106,
+		"y": 346,
 		"pixelRatio": 1
 	},
 	"icon-dark-entrance-alt1-13": {
 		"width": 15,
 		"height": 15,
-		"x": 537,
-		"y": 494,
+		"x": 1,
+		"y": 536,
 		"pixelRatio": 1
 	},
 	"icon-dark-entrance-alt1-15": {
@@ -4567,14 +4679,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 121,
+		"y": 361,
 		"pixelRatio": 1
 	},
 	"icon-light-entrance-13": {
 		"width": 15,
 		"height": 15,
-		"x": 537,
-		"y": 511,
+		"x": 18,
+		"y": 536,
 		"pixelRatio": 1
 	},
 	"icon-light-entrance-15": {
@@ -4588,13 +4700,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 136,
+		"y": 376,
 		"pixelRatio": 1
 	},
 	"icon-dark-entrance-13": {
 		"width": 15,
 		"height": 15,
-		"x": 1,
+		"x": 35,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4609,13 +4721,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 151,
+		"y": 391,
 		"pixelRatio": 1
 	},
 	"icon-light-farm-13": {
 		"width": 15,
 		"height": 15,
-		"x": 18,
+		"x": 52,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4630,13 +4742,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 166,
+		"y": 406,
 		"pixelRatio": 1
 	},
 	"icon-dark-farm-13": {
 		"width": 15,
 		"height": 15,
-		"x": 35,
+		"x": 69,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4651,13 +4763,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 181,
+		"y": 421,
 		"pixelRatio": 1
 	},
 	"icon-light-fast-food-13": {
 		"width": 15,
 		"height": 15,
-		"x": 52,
+		"x": 86,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4672,13 +4784,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 196,
+		"y": 436,
 		"pixelRatio": 1
 	},
 	"icon-dark-fast-food-13": {
 		"width": 15,
 		"height": 15,
-		"x": 69,
+		"x": 103,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4693,13 +4805,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 211,
+		"y": 451,
 		"pixelRatio": 1
 	},
 	"icon-light-fence-13": {
 		"width": 15,
 		"height": 15,
-		"x": 86,
+		"x": 120,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4714,13 +4826,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 226,
+		"y": 466,
 		"pixelRatio": 1
 	},
 	"icon-dark-fence-13": {
 		"width": 15,
 		"height": 15,
-		"x": 103,
+		"x": 137,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4735,13 +4847,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 241,
+		"y": 481,
 		"pixelRatio": 1
 	},
 	"icon-light-ferry-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 120,
+		"x": 154,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4756,13 +4868,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 256,
+		"y": 496,
 		"pixelRatio": 1
 	},
 	"icon-dark-ferry-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 137,
+		"x": 171,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4777,13 +4889,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 271,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-light-ferry-13": {
 		"width": 15,
 		"height": 15,
-		"x": 154,
+		"x": 188,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4798,13 +4910,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 286,
+		"y": 526,
 		"pixelRatio": 1
 	},
 	"icon-dark-ferry-13": {
 		"width": 15,
 		"height": 15,
-		"x": 171,
+		"x": 205,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4819,13 +4931,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 301,
+		"y": 541,
 		"pixelRatio": 1
 	},
 	"icon-light-fire-station-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 188,
+		"x": 222,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4840,13 +4952,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 316,
+		"y": 556,
 		"pixelRatio": 1
 	},
 	"icon-dark-fire-station-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 205,
+		"x": 239,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4861,13 +4973,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 331,
+		"y": 571,
 		"pixelRatio": 1
 	},
 	"icon-light-fire-station-13": {
 		"width": 15,
 		"height": 15,
-		"x": 222,
+		"x": 256,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4882,13 +4994,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 346,
+		"y": 586,
 		"pixelRatio": 1
 	},
 	"icon-dark-fire-station-13": {
 		"width": 15,
 		"height": 15,
-		"x": 239,
+		"x": 273,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4903,13 +5015,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 361,
+		"y": 601,
 		"pixelRatio": 1
 	},
 	"icon-light-fitness-centre-13": {
 		"width": 15,
 		"height": 15,
-		"x": 256,
+		"x": 290,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4924,13 +5036,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 376,
+		"y": 616,
 		"pixelRatio": 1
 	},
 	"icon-dark-fitness-centre-13": {
 		"width": 15,
 		"height": 15,
-		"x": 273,
+		"x": 307,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4945,13 +5057,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 652,
-		"y": 391,
+		"y": 631,
 		"pixelRatio": 1
 	},
 	"icon-light-florist-13": {
 		"width": 15,
 		"height": 15,
-		"x": 290,
+		"x": 324,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4965,14 +5077,14 @@
 	"icon-dark-florist-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 406,
+		"x": 1,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-dark-florist-13": {
 		"width": 15,
 		"height": 15,
-		"x": 307,
+		"x": 341,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -4986,14 +5098,14 @@
 	"icon-light-fuel-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 421,
+		"x": 16,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-light-fuel-13": {
 		"width": 15,
 		"height": 15,
-		"x": 324,
+		"x": 358,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5007,14 +5119,14 @@
 	"icon-dark-fuel-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 436,
+		"x": 31,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-dark-fuel-13": {
 		"width": 15,
 		"height": 15,
-		"x": 341,
+		"x": 375,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5028,14 +5140,14 @@
 	"icon-light-furniture-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 451,
+		"x": 46,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-light-furniture-13": {
 		"width": 15,
 		"height": 15,
-		"x": 358,
+		"x": 392,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5049,14 +5161,14 @@
 	"icon-dark-furniture-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 466,
+		"x": 61,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-dark-furniture-13": {
 		"width": 15,
 		"height": 15,
-		"x": 375,
+		"x": 409,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5070,14 +5182,14 @@
 	"icon-light-gaming-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 481,
+		"x": 76,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-light-gaming-13": {
 		"width": 15,
 		"height": 15,
-		"x": 392,
+		"x": 426,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5091,14 +5203,14 @@
 	"icon-dark-gaming-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 496,
+		"x": 91,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-dark-gaming-13": {
 		"width": 15,
 		"height": 15,
-		"x": 409,
+		"x": 443,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5112,14 +5224,14 @@
 	"icon-light-garden-centre-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 511,
+		"x": 106,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-light-garden-centre-13": {
 		"width": 15,
 		"height": 15,
-		"x": 426,
+		"x": 460,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5133,14 +5245,14 @@
 	"icon-dark-garden-centre-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 526,
+		"x": 121,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-dark-garden-centre-13": {
 		"width": 15,
 		"height": 15,
-		"x": 443,
+		"x": 477,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5154,14 +5266,14 @@
 	"icon-light-garden-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 541,
+		"x": 136,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-light-garden-13": {
 		"width": 15,
 		"height": 15,
-		"x": 460,
+		"x": 494,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5175,14 +5287,14 @@
 	"icon-dark-garden-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 556,
+		"x": 151,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-dark-garden-13": {
 		"width": 15,
 		"height": 15,
-		"x": 477,
+		"x": 511,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5196,14 +5308,14 @@
 	"icon-light-gate-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 571,
+		"x": 166,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-light-gate-13": {
 		"width": 15,
 		"height": 15,
-		"x": 494,
+		"x": 528,
 		"y": 536,
 		"pixelRatio": 1
 	},
@@ -5217,15 +5329,15 @@
 	"icon-dark-gate-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 586,
+		"x": 181,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-dark-gate-13": {
 		"width": 15,
 		"height": 15,
-		"x": 511,
-		"y": 536,
+		"x": 554,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-dark-gate-15": {
@@ -5238,15 +5350,15 @@
 	"icon-light-gift-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 601,
+		"x": 196,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-light-gift-13": {
 		"width": 15,
 		"height": 15,
-		"x": 528,
-		"y": 536,
+		"x": 554,
+		"y": 18,
 		"pixelRatio": 1
 	},
 	"icon-light-gift-15": {
@@ -5259,15 +5371,15 @@
 	"icon-dark-gift-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 616,
+		"x": 211,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-dark-gift-13": {
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 1,
+		"y": 35,
 		"pixelRatio": 1
 	},
 	"icon-dark-gift-15": {
@@ -5280,15 +5392,15 @@
 	"icon-light-globe-11": {
 		"width": 13,
 		"height": 13,
-		"x": 652,
-		"y": 631,
+		"x": 226,
+		"y": 651,
 		"pixelRatio": 1
 	},
 	"icon-light-globe-13": {
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 18,
+		"y": 52,
 		"pixelRatio": 1
 	},
 	"icon-light-globe-15": {
@@ -5301,7 +5413,7 @@
 	"icon-dark-globe-11": {
 		"width": 13,
 		"height": 13,
-		"x": 1,
+		"x": 241,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5309,7 +5421,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 35,
+		"y": 69,
 		"pixelRatio": 1
 	},
 	"icon-dark-globe-15": {
@@ -5322,7 +5434,7 @@
 	"icon-light-golf-11": {
 		"width": 13,
 		"height": 13,
-		"x": 16,
+		"x": 256,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5330,7 +5442,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 52,
+		"y": 86,
 		"pixelRatio": 1
 	},
 	"icon-light-golf-15": {
@@ -5343,7 +5455,7 @@
 	"icon-dark-golf-11": {
 		"width": 13,
 		"height": 13,
-		"x": 31,
+		"x": 271,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5351,7 +5463,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 69,
+		"y": 103,
 		"pixelRatio": 1
 	},
 	"icon-dark-golf-15": {
@@ -5364,7 +5476,7 @@
 	"icon-light-grocery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 46,
+		"x": 286,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5372,7 +5484,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 86,
+		"y": 120,
 		"pixelRatio": 1
 	},
 	"icon-light-grocery-15": {
@@ -5385,7 +5497,7 @@
 	"icon-dark-grocery-11": {
 		"width": 13,
 		"height": 13,
-		"x": 61,
+		"x": 301,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5393,7 +5505,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 103,
+		"y": 137,
 		"pixelRatio": 1
 	},
 	"icon-dark-grocery-15": {
@@ -5406,7 +5518,7 @@
 	"icon-light-hairdresser-11": {
 		"width": 13,
 		"height": 13,
-		"x": 76,
+		"x": 316,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5414,7 +5526,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 120,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"icon-light-hairdresser-15": {
@@ -5427,7 +5539,7 @@
 	"icon-dark-hairdresser-11": {
 		"width": 13,
 		"height": 13,
-		"x": 91,
+		"x": 331,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5435,7 +5547,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 137,
+		"y": 171,
 		"pixelRatio": 1
 	},
 	"icon-dark-hairdresser-15": {
@@ -5448,7 +5560,7 @@
 	"icon-light-harbor-11": {
 		"width": 13,
 		"height": 13,
-		"x": 106,
+		"x": 346,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5456,7 +5568,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 154,
+		"y": 188,
 		"pixelRatio": 1
 	},
 	"icon-light-harbor-15": {
@@ -5469,7 +5581,7 @@
 	"icon-dark-harbor-11": {
 		"width": 13,
 		"height": 13,
-		"x": 121,
+		"x": 361,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5477,7 +5589,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 171,
+		"y": 205,
 		"pixelRatio": 1
 	},
 	"icon-dark-harbor-15": {
@@ -5490,7 +5602,7 @@
 	"icon-light-hardware-11": {
 		"width": 13,
 		"height": 13,
-		"x": 136,
+		"x": 376,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5498,7 +5610,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 188,
+		"y": 222,
 		"pixelRatio": 1
 	},
 	"icon-light-hardware-15": {
@@ -5511,7 +5623,7 @@
 	"icon-dark-hardware-11": {
 		"width": 13,
 		"height": 13,
-		"x": 151,
+		"x": 391,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5519,7 +5631,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 205,
+		"y": 239,
 		"pixelRatio": 1
 	},
 	"icon-dark-hardware-15": {
@@ -5532,7 +5644,7 @@
 	"icon-light-heart-11": {
 		"width": 13,
 		"height": 13,
-		"x": 166,
+		"x": 406,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5540,7 +5652,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 222,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-light-heart-15": {
@@ -5553,7 +5665,7 @@
 	"icon-dark-heart-11": {
 		"width": 13,
 		"height": 13,
-		"x": 181,
+		"x": 421,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5561,7 +5673,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 239,
+		"y": 273,
 		"pixelRatio": 1
 	},
 	"icon-dark-heart-15": {
@@ -5574,7 +5686,7 @@
 	"icon-light-heliport-11": {
 		"width": 13,
 		"height": 13,
-		"x": 196,
+		"x": 436,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5582,7 +5694,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 256,
+		"y": 290,
 		"pixelRatio": 1
 	},
 	"icon-light-heliport-15": {
@@ -5595,7 +5707,7 @@
 	"icon-dark-heliport-11": {
 		"width": 13,
 		"height": 13,
-		"x": 211,
+		"x": 451,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5603,7 +5715,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 273,
+		"y": 307,
 		"pixelRatio": 1
 	},
 	"icon-dark-heliport-15": {
@@ -5616,7 +5728,7 @@
 	"icon-light-highway-rest-area-11": {
 		"width": 13,
 		"height": 13,
-		"x": 226,
+		"x": 466,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5624,7 +5736,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 290,
+		"y": 324,
 		"pixelRatio": 1
 	},
 	"icon-light-highway-rest-area-15": {
@@ -5637,7 +5749,7 @@
 	"icon-dark-highway-rest-area-11": {
 		"width": 13,
 		"height": 13,
-		"x": 241,
+		"x": 481,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5645,7 +5757,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 307,
+		"y": 341,
 		"pixelRatio": 1
 	},
 	"icon-dark-highway-rest-area-15": {
@@ -5658,7 +5770,7 @@
 	"icon-light-historic-11": {
 		"width": 13,
 		"height": 13,
-		"x": 256,
+		"x": 496,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5666,7 +5778,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 324,
+		"y": 358,
 		"pixelRatio": 1
 	},
 	"icon-light-historic-15": {
@@ -5679,7 +5791,7 @@
 	"icon-dark-historic-11": {
 		"width": 13,
 		"height": 13,
-		"x": 271,
+		"x": 511,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5687,7 +5799,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 341,
+		"y": 375,
 		"pixelRatio": 1
 	},
 	"icon-dark-historic-15": {
@@ -5700,7 +5812,7 @@
 	"icon-light-home-11": {
 		"width": 13,
 		"height": 13,
-		"x": 286,
+		"x": 526,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5708,7 +5820,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 358,
+		"y": 392,
 		"pixelRatio": 1
 	},
 	"icon-light-home-15": {
@@ -5721,7 +5833,7 @@
 	"icon-dark-home-11": {
 		"width": 13,
 		"height": 13,
-		"x": 301,
+		"x": 541,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5729,7 +5841,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 375,
+		"y": 409,
 		"pixelRatio": 1
 	},
 	"icon-dark-home-15": {
@@ -5742,7 +5854,7 @@
 	"icon-light-horse-riding-11": {
 		"width": 13,
 		"height": 13,
-		"x": 316,
+		"x": 556,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5750,7 +5862,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 392,
+		"y": 426,
 		"pixelRatio": 1
 	},
 	"icon-light-horse-riding-15": {
@@ -5763,7 +5875,7 @@
 	"icon-dark-horse-riding-11": {
 		"width": 13,
 		"height": 13,
-		"x": 331,
+		"x": 571,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5771,7 +5883,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 409,
+		"y": 443,
 		"pixelRatio": 1
 	},
 	"icon-dark-horse-riding-15": {
@@ -5784,7 +5896,7 @@
 	"icon-light-hospital-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 346,
+		"x": 586,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5792,7 +5904,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 426,
+		"y": 460,
 		"pixelRatio": 1
 	},
 	"icon-light-hospital-JP-15": {
@@ -5805,7 +5917,7 @@
 	"icon-dark-hospital-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 361,
+		"x": 601,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5813,7 +5925,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 443,
+		"y": 477,
 		"pixelRatio": 1
 	},
 	"icon-dark-hospital-JP-15": {
@@ -5826,7 +5938,7 @@
 	"icon-light-hospital-11": {
 		"width": 13,
 		"height": 13,
-		"x": 376,
+		"x": 616,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5834,7 +5946,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 460,
+		"y": 494,
 		"pixelRatio": 1
 	},
 	"icon-light-hospital-15": {
@@ -5847,7 +5959,7 @@
 	"icon-dark-hospital-11": {
 		"width": 13,
 		"height": 13,
-		"x": 391,
+		"x": 631,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5855,7 +5967,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 477,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-dark-hospital-15": {
@@ -5868,7 +5980,7 @@
 	"icon-light-hot-spring-11": {
 		"width": 13,
 		"height": 13,
-		"x": 406,
+		"x": 646,
 		"y": 651,
 		"pixelRatio": 1
 	},
@@ -5876,7 +5988,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 554,
-		"y": 494,
+		"y": 528,
 		"pixelRatio": 1
 	},
 	"icon-light-hot-spring-15": {
@@ -5889,15 +6001,15 @@
 	"icon-dark-hot-spring-11": {
 		"width": 13,
 		"height": 13,
-		"x": 421,
-		"y": 651,
+		"x": 667,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-dark-hot-spring-13": {
 		"width": 15,
 		"height": 15,
-		"x": 554,
-		"y": 511,
+		"x": 1,
+		"y": 553,
 		"pixelRatio": 1
 	},
 	"icon-dark-hot-spring-15": {
@@ -5910,15 +6022,15 @@
 	"icon-light-ice-cream-11": {
 		"width": 13,
 		"height": 13,
-		"x": 436,
-		"y": 651,
+		"x": 667,
+		"y": 16,
 		"pixelRatio": 1
 	},
 	"icon-light-ice-cream-13": {
 		"width": 15,
 		"height": 15,
-		"x": 554,
-		"y": 528,
+		"x": 18,
+		"y": 553,
 		"pixelRatio": 1
 	},
 	"icon-light-ice-cream-15": {
@@ -5931,14 +6043,14 @@
 	"icon-dark-ice-cream-11": {
 		"width": 13,
 		"height": 13,
-		"x": 451,
-		"y": 651,
+		"x": 667,
+		"y": 31,
 		"pixelRatio": 1
 	},
 	"icon-dark-ice-cream-13": {
 		"width": 15,
 		"height": 15,
-		"x": 1,
+		"x": 35,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -5952,14 +6064,14 @@
 	"icon-light-industry-11": {
 		"width": 13,
 		"height": 13,
-		"x": 466,
-		"y": 651,
+		"x": 667,
+		"y": 46,
 		"pixelRatio": 1
 	},
 	"icon-light-industry-13": {
 		"width": 15,
 		"height": 15,
-		"x": 18,
+		"x": 52,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -5973,14 +6085,14 @@
 	"icon-dark-industry-11": {
 		"width": 13,
 		"height": 13,
-		"x": 481,
-		"y": 651,
+		"x": 667,
+		"y": 61,
 		"pixelRatio": 1
 	},
 	"icon-dark-industry-13": {
 		"width": 15,
 		"height": 15,
-		"x": 35,
+		"x": 69,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -5994,14 +6106,14 @@
 	"icon-light-information-11": {
 		"width": 13,
 		"height": 13,
-		"x": 496,
-		"y": 651,
+		"x": 667,
+		"y": 76,
 		"pixelRatio": 1
 	},
 	"icon-light-information-13": {
 		"width": 15,
 		"height": 15,
-		"x": 52,
+		"x": 86,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6015,14 +6127,14 @@
 	"icon-dark-information-11": {
 		"width": 13,
 		"height": 13,
-		"x": 511,
-		"y": 651,
+		"x": 667,
+		"y": 91,
 		"pixelRatio": 1
 	},
 	"icon-dark-information-13": {
 		"width": 15,
 		"height": 15,
-		"x": 69,
+		"x": 103,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6036,14 +6148,14 @@
 	"icon-light-jewelry-store-11": {
 		"width": 13,
 		"height": 13,
-		"x": 526,
-		"y": 651,
+		"x": 667,
+		"y": 106,
 		"pixelRatio": 1
 	},
 	"icon-light-jewelry-store-13": {
 		"width": 15,
 		"height": 15,
-		"x": 86,
+		"x": 120,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6057,14 +6169,14 @@
 	"icon-dark-jewelry-store-11": {
 		"width": 13,
 		"height": 13,
-		"x": 541,
-		"y": 651,
+		"x": 667,
+		"y": 121,
 		"pixelRatio": 1
 	},
 	"icon-dark-jewelry-store-13": {
 		"width": 15,
 		"height": 15,
-		"x": 103,
+		"x": 137,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6078,14 +6190,14 @@
 	"icon-light-karaoke-11": {
 		"width": 13,
 		"height": 13,
-		"x": 556,
-		"y": 651,
+		"x": 667,
+		"y": 136,
 		"pixelRatio": 1
 	},
 	"icon-light-karaoke-13": {
 		"width": 15,
 		"height": 15,
-		"x": 120,
+		"x": 154,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6099,14 +6211,14 @@
 	"icon-dark-karaoke-11": {
 		"width": 13,
 		"height": 13,
-		"x": 571,
-		"y": 651,
+		"x": 667,
+		"y": 151,
 		"pixelRatio": 1
 	},
 	"icon-dark-karaoke-13": {
 		"width": 15,
 		"height": 15,
-		"x": 137,
+		"x": 171,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6120,14 +6232,14 @@
 	"icon-light-landmark-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 586,
-		"y": 651,
+		"x": 667,
+		"y": 166,
 		"pixelRatio": 1
 	},
 	"icon-light-landmark-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 154,
+		"x": 188,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6141,14 +6253,14 @@
 	"icon-dark-landmark-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 601,
-		"y": 651,
+		"x": 667,
+		"y": 181,
 		"pixelRatio": 1
 	},
 	"icon-dark-landmark-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 171,
+		"x": 205,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6162,14 +6274,14 @@
 	"icon-light-landmark-11": {
 		"width": 13,
 		"height": 13,
-		"x": 616,
-		"y": 651,
+		"x": 667,
+		"y": 196,
 		"pixelRatio": 1
 	},
 	"icon-light-landmark-13": {
 		"width": 15,
 		"height": 15,
-		"x": 188,
+		"x": 222,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6183,14 +6295,14 @@
 	"icon-dark-landmark-11": {
 		"width": 13,
 		"height": 13,
-		"x": 631,
-		"y": 651,
+		"x": 667,
+		"y": 211,
 		"pixelRatio": 1
 	},
 	"icon-dark-landmark-13": {
 		"width": 15,
 		"height": 15,
-		"x": 205,
+		"x": 239,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6204,14 +6316,14 @@
 	"icon-light-landuse-11": {
 		"width": 13,
 		"height": 13,
-		"x": 646,
-		"y": 651,
+		"x": 667,
+		"y": 226,
 		"pixelRatio": 1
 	},
 	"icon-light-landuse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 222,
+		"x": 256,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6226,13 +6338,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 1,
+		"y": 241,
 		"pixelRatio": 1
 	},
 	"icon-dark-landuse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 239,
+		"x": 273,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6247,13 +6359,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 16,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-light-laundry-13": {
 		"width": 15,
 		"height": 15,
-		"x": 256,
+		"x": 290,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6268,13 +6380,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 31,
+		"y": 271,
 		"pixelRatio": 1
 	},
 	"icon-dark-laundry-13": {
 		"width": 15,
 		"height": 15,
-		"x": 273,
+		"x": 307,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6289,13 +6401,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 46,
+		"y": 286,
 		"pixelRatio": 1
 	},
 	"icon-light-library-13": {
 		"width": 15,
 		"height": 15,
-		"x": 290,
+		"x": 324,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6310,13 +6422,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 61,
+		"y": 301,
 		"pixelRatio": 1
 	},
 	"icon-dark-library-13": {
 		"width": 15,
 		"height": 15,
-		"x": 307,
+		"x": 341,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6331,13 +6443,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 76,
+		"y": 316,
 		"pixelRatio": 1
 	},
 	"icon-light-lift-gate-13": {
 		"width": 15,
 		"height": 15,
-		"x": 324,
+		"x": 358,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6352,13 +6464,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 91,
+		"y": 331,
 		"pixelRatio": 1
 	},
 	"icon-dark-lift-gate-13": {
 		"width": 15,
 		"height": 15,
-		"x": 341,
+		"x": 375,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6373,13 +6485,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 106,
+		"y": 346,
 		"pixelRatio": 1
 	},
 	"icon-light-lighthouse-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 358,
+		"x": 392,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6394,13 +6506,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 121,
+		"y": 361,
 		"pixelRatio": 1
 	},
 	"icon-dark-lighthouse-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 375,
+		"x": 409,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6415,13 +6527,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 136,
+		"y": 376,
 		"pixelRatio": 1
 	},
 	"icon-light-lighthouse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 392,
+		"x": 426,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6436,13 +6548,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 151,
+		"y": 391,
 		"pixelRatio": 1
 	},
 	"icon-dark-lighthouse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 409,
+		"x": 443,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6457,13 +6569,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 166,
+		"y": 406,
 		"pixelRatio": 1
 	},
 	"icon-light-lodging-13": {
 		"width": 15,
 		"height": 15,
-		"x": 426,
+		"x": 460,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6478,13 +6590,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 181,
+		"y": 421,
 		"pixelRatio": 1
 	},
 	"icon-dark-lodging-13": {
 		"width": 15,
 		"height": 15,
-		"x": 443,
+		"x": 477,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6499,13 +6611,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 196,
+		"y": 436,
 		"pixelRatio": 1
 	},
 	"icon-light-logging-13": {
 		"width": 15,
 		"height": 15,
-		"x": 460,
+		"x": 494,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6520,13 +6632,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 211,
+		"y": 451,
 		"pixelRatio": 1
 	},
 	"icon-dark-logging-13": {
 		"width": 15,
 		"height": 15,
-		"x": 477,
+		"x": 511,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6541,13 +6653,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 226,
+		"y": 466,
 		"pixelRatio": 1
 	},
 	"icon-light-marker-stroked-13": {
 		"width": 15,
 		"height": 15,
-		"x": 494,
+		"x": 528,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6562,13 +6674,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 241,
+		"y": 481,
 		"pixelRatio": 1
 	},
 	"icon-dark-marker-stroked-13": {
 		"width": 15,
 		"height": 15,
-		"x": 511,
+		"x": 545,
 		"y": 553,
 		"pixelRatio": 1
 	},
@@ -6583,14 +6695,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 256,
+		"y": 496,
 		"pixelRatio": 1
 	},
 	"icon-light-marker-13": {
 		"width": 15,
 		"height": 15,
-		"x": 528,
-		"y": 553,
+		"x": 571,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-light-marker-15": {
@@ -6604,14 +6716,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 271,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-dark-marker-13": {
 		"width": 15,
 		"height": 15,
-		"x": 545,
-		"y": 553,
+		"x": 571,
+		"y": 18,
 		"pixelRatio": 1
 	},
 	"icon-dark-marker-15": {
@@ -6625,14 +6737,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 286,
+		"y": 526,
 		"pixelRatio": 1
 	},
 	"icon-light-mobile-phone-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 1,
+		"y": 35,
 		"pixelRatio": 1
 	},
 	"icon-light-mobile-phone-15": {
@@ -6646,14 +6758,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 301,
+		"y": 541,
 		"pixelRatio": 1
 	},
 	"icon-dark-mobile-phone-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 18,
+		"y": 52,
 		"pixelRatio": 1
 	},
 	"icon-dark-mobile-phone-15": {
@@ -6667,14 +6779,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 316,
+		"y": 556,
 		"pixelRatio": 1
 	},
 	"icon-light-monument-JP-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 35,
+		"y": 69,
 		"pixelRatio": 1
 	},
 	"icon-light-monument-JP-15": {
@@ -6688,14 +6800,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 331,
+		"y": 571,
 		"pixelRatio": 1
 	},
 	"icon-dark-monument-JP-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 52,
+		"y": 86,
 		"pixelRatio": 1
 	},
 	"icon-dark-monument-JP-15": {
@@ -6709,14 +6821,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 346,
+		"y": 586,
 		"pixelRatio": 1
 	},
 	"icon-light-monument-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 69,
+		"y": 103,
 		"pixelRatio": 1
 	},
 	"icon-light-monument-15": {
@@ -6730,14 +6842,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 361,
+		"y": 601,
 		"pixelRatio": 1
 	},
 	"icon-dark-monument-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 86,
+		"y": 120,
 		"pixelRatio": 1
 	},
 	"icon-dark-monument-15": {
@@ -6751,14 +6863,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 376,
+		"y": 616,
 		"pixelRatio": 1
 	},
 	"icon-light-mountain-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 103,
+		"y": 137,
 		"pixelRatio": 1
 	},
 	"icon-light-mountain-15": {
@@ -6772,14 +6884,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 391,
+		"y": 631,
 		"pixelRatio": 1
 	},
 	"icon-dark-mountain-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 120,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"icon-dark-mountain-15": {
@@ -6793,14 +6905,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 667,
-		"y": 406,
+		"y": 646,
 		"pixelRatio": 1
 	},
 	"icon-light-museum-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 137,
+		"y": 171,
 		"pixelRatio": 1
 	},
 	"icon-light-museum-15": {
@@ -6813,15 +6925,15 @@
 	"icon-dark-museum-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 421,
+		"x": 1,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-museum-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 154,
+		"y": 188,
 		"pixelRatio": 1
 	},
 	"icon-dark-museum-15": {
@@ -6834,15 +6946,15 @@
 	"icon-light-music-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 436,
+		"x": 16,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-music-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 171,
+		"y": 205,
 		"pixelRatio": 1
 	},
 	"icon-light-music-15": {
@@ -6855,15 +6967,15 @@
 	"icon-dark-music-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 451,
+		"x": 31,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-music-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 188,
+		"y": 222,
 		"pixelRatio": 1
 	},
 	"icon-dark-music-15": {
@@ -6876,15 +6988,15 @@
 	"icon-light-natural-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 466,
+		"x": 46,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-natural-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 205,
+		"y": 239,
 		"pixelRatio": 1
 	},
 	"icon-light-natural-15": {
@@ -6897,15 +7009,15 @@
 	"icon-dark-natural-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 481,
+		"x": 61,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-natural-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 222,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-dark-natural-15": {
@@ -6918,15 +7030,15 @@
 	"icon-light-observation-tower-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 496,
+		"x": 76,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-observation-tower-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 239,
+		"y": 273,
 		"pixelRatio": 1
 	},
 	"icon-light-observation-tower-15": {
@@ -6939,15 +7051,15 @@
 	"icon-dark-observation-tower-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 511,
+		"x": 91,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-observation-tower-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 256,
+		"y": 290,
 		"pixelRatio": 1
 	},
 	"icon-dark-observation-tower-15": {
@@ -6960,15 +7072,15 @@
 	"icon-light-optician-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 526,
+		"x": 106,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-optician-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 273,
+		"y": 307,
 		"pixelRatio": 1
 	},
 	"icon-light-optician-15": {
@@ -6981,15 +7093,15 @@
 	"icon-dark-optician-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 541,
+		"x": 121,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-optician-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 290,
+		"y": 324,
 		"pixelRatio": 1
 	},
 	"icon-dark-optician-15": {
@@ -7002,15 +7114,15 @@
 	"icon-light-paint-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 556,
+		"x": 136,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-paint-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 307,
+		"y": 341,
 		"pixelRatio": 1
 	},
 	"icon-light-paint-15": {
@@ -7023,15 +7135,15 @@
 	"icon-dark-paint-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 571,
+		"x": 151,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-paint-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 324,
+		"y": 358,
 		"pixelRatio": 1
 	},
 	"icon-dark-paint-15": {
@@ -7044,15 +7156,15 @@
 	"icon-light-park-alt1-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 586,
+		"x": 166,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-park-alt1-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 341,
+		"y": 375,
 		"pixelRatio": 1
 	},
 	"icon-light-park-alt1-15": {
@@ -7065,15 +7177,15 @@
 	"icon-dark-park-alt1-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 601,
+		"x": 181,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-park-alt1-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 358,
+		"y": 392,
 		"pixelRatio": 1
 	},
 	"icon-dark-park-alt1-15": {
@@ -7086,15 +7198,15 @@
 	"icon-light-park-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 616,
+		"x": 196,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-park-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 375,
+		"y": 409,
 		"pixelRatio": 1
 	},
 	"icon-light-park-15": {
@@ -7107,15 +7219,15 @@
 	"icon-dark-park-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 631,
+		"x": 211,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-park-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 392,
+		"y": 426,
 		"pixelRatio": 1
 	},
 	"icon-dark-park-15": {
@@ -7128,15 +7240,15 @@
 	"icon-light-parking-garage-11": {
 		"width": 13,
 		"height": 13,
-		"x": 667,
-		"y": 646,
+		"x": 226,
+		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-parking-garage-13": {
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 409,
+		"y": 443,
 		"pixelRatio": 1
 	},
 	"icon-light-parking-garage-15": {
@@ -7149,7 +7261,7 @@
 	"icon-dark-parking-garage-11": {
 		"width": 13,
 		"height": 13,
-		"x": 1,
+		"x": 241,
 		"y": 666,
 		"pixelRatio": 1
 	},
@@ -7157,7 +7269,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 426,
+		"y": 460,
 		"pixelRatio": 1
 	},
 	"icon-dark-parking-garage-15": {
@@ -7170,7 +7282,7 @@
 	"icon-light-parking-paid-11": {
 		"width": 13,
 		"height": 13,
-		"x": 16,
+		"x": 256,
 		"y": 666,
 		"pixelRatio": 1
 	},
@@ -7178,7 +7290,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 443,
+		"y": 477,
 		"pixelRatio": 1
 	},
 	"icon-light-parking-paid-15": {
@@ -7191,7 +7303,7 @@
 	"icon-dark-parking-paid-11": {
 		"width": 13,
 		"height": 13,
-		"x": 31,
+		"x": 271,
 		"y": 666,
 		"pixelRatio": 1
 	},
@@ -7199,7 +7311,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 460,
+		"y": 494,
 		"pixelRatio": 1
 	},
 	"icon-dark-parking-paid-15": {
@@ -7212,7 +7324,7 @@
 	"icon-light-parking-11": {
 		"width": 13,
 		"height": 13,
-		"x": 46,
+		"x": 286,
 		"y": 666,
 		"pixelRatio": 1
 	},
@@ -7220,7 +7332,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 477,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-light-parking-15": {
@@ -7233,7 +7345,7 @@
 	"icon-dark-parking-11": {
 		"width": 13,
 		"height": 13,
-		"x": 61,
+		"x": 301,
 		"y": 666,
 		"pixelRatio": 1
 	},
@@ -7241,7 +7353,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 494,
+		"y": 528,
 		"pixelRatio": 1
 	},
 	"icon-dark-parking-15": {
@@ -7254,7 +7366,7 @@
 	"icon-light-pharmacy-11": {
 		"width": 13,
 		"height": 13,
-		"x": 76,
+		"x": 316,
 		"y": 666,
 		"pixelRatio": 1
 	},
@@ -7262,7 +7374,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 571,
-		"y": 511,
+		"y": 545,
 		"pixelRatio": 1
 	},
 	"icon-light-pharmacy-15": {
@@ -7275,15 +7387,15 @@
 	"icon-dark-pharmacy-11": {
 		"width": 13,
 		"height": 13,
-		"x": 91,
+		"x": 331,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-pharmacy-13": {
 		"width": 15,
 		"height": 15,
-		"x": 571,
-		"y": 528,
+		"x": 1,
+		"y": 570,
 		"pixelRatio": 1
 	},
 	"icon-dark-pharmacy-15": {
@@ -7296,15 +7408,15 @@
 	"icon-light-picnic-site-11": {
 		"width": 13,
 		"height": 13,
-		"x": 106,
+		"x": 346,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-picnic-site-13": {
 		"width": 15,
 		"height": 15,
-		"x": 571,
-		"y": 545,
+		"x": 18,
+		"y": 570,
 		"pixelRatio": 1
 	},
 	"icon-light-picnic-site-15": {
@@ -7317,14 +7429,14 @@
 	"icon-dark-picnic-site-11": {
 		"width": 13,
 		"height": 13,
-		"x": 121,
+		"x": 361,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-picnic-site-13": {
 		"width": 15,
 		"height": 15,
-		"x": 1,
+		"x": 35,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7338,14 +7450,14 @@
 	"icon-light-pitch-11": {
 		"width": 13,
 		"height": 13,
-		"x": 136,
+		"x": 376,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-pitch-13": {
 		"width": 15,
 		"height": 15,
-		"x": 18,
+		"x": 52,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7359,14 +7471,14 @@
 	"icon-dark-pitch-11": {
 		"width": 13,
 		"height": 13,
-		"x": 151,
+		"x": 391,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-pitch-13": {
 		"width": 15,
 		"height": 15,
-		"x": 35,
+		"x": 69,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7380,14 +7492,14 @@
 	"icon-light-place-of-worship-11": {
 		"width": 13,
 		"height": 13,
-		"x": 166,
+		"x": 406,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-place-of-worship-13": {
 		"width": 15,
 		"height": 15,
-		"x": 52,
+		"x": 86,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7401,14 +7513,14 @@
 	"icon-dark-place-of-worship-11": {
 		"width": 13,
 		"height": 13,
-		"x": 181,
+		"x": 421,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-place-of-worship-13": {
 		"width": 15,
 		"height": 15,
-		"x": 69,
+		"x": 103,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7422,14 +7534,14 @@
 	"icon-light-playground-11": {
 		"width": 13,
 		"height": 13,
-		"x": 196,
+		"x": 436,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-playground-13": {
 		"width": 15,
 		"height": 15,
-		"x": 86,
+		"x": 120,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7443,14 +7555,14 @@
 	"icon-dark-playground-11": {
 		"width": 13,
 		"height": 13,
-		"x": 211,
+		"x": 451,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-playground-13": {
 		"width": 15,
 		"height": 15,
-		"x": 103,
+		"x": 137,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7464,14 +7576,14 @@
 	"icon-light-police-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 226,
+		"x": 466,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-police-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 120,
+		"x": 154,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7485,14 +7597,14 @@
 	"icon-dark-police-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 241,
+		"x": 481,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-police-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 137,
+		"x": 171,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7506,14 +7618,14 @@
 	"icon-light-police-11": {
 		"width": 13,
 		"height": 13,
-		"x": 256,
+		"x": 496,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-police-13": {
 		"width": 15,
 		"height": 15,
-		"x": 154,
+		"x": 188,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7527,14 +7639,14 @@
 	"icon-dark-police-11": {
 		"width": 13,
 		"height": 13,
-		"x": 271,
+		"x": 511,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-police-13": {
 		"width": 15,
 		"height": 15,
-		"x": 171,
+		"x": 205,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7548,14 +7660,14 @@
 	"icon-light-post-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 286,
+		"x": 526,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-post-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 188,
+		"x": 222,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7569,14 +7681,14 @@
 	"icon-dark-post-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 301,
+		"x": 541,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-post-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 205,
+		"x": 239,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7590,14 +7702,14 @@
 	"icon-light-post-11": {
 		"width": 13,
 		"height": 13,
-		"x": 316,
+		"x": 556,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-post-13": {
 		"width": 15,
 		"height": 15,
-		"x": 222,
+		"x": 256,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7611,14 +7723,14 @@
 	"icon-dark-post-11": {
 		"width": 13,
 		"height": 13,
-		"x": 331,
+		"x": 571,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-post-13": {
 		"width": 15,
 		"height": 15,
-		"x": 239,
+		"x": 273,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7632,14 +7744,14 @@
 	"icon-light-prison-11": {
 		"width": 13,
 		"height": 13,
-		"x": 346,
+		"x": 586,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-prison-13": {
 		"width": 15,
 		"height": 15,
-		"x": 256,
+		"x": 290,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7653,14 +7765,14 @@
 	"icon-dark-prison-11": {
 		"width": 13,
 		"height": 13,
-		"x": 361,
+		"x": 601,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-prison-13": {
 		"width": 15,
 		"height": 15,
-		"x": 273,
+		"x": 307,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7674,14 +7786,14 @@
 	"icon-light-racetrack-boat-11": {
 		"width": 13,
 		"height": 13,
-		"x": 376,
+		"x": 616,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-racetrack-boat-13": {
 		"width": 15,
 		"height": 15,
-		"x": 290,
+		"x": 324,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7695,14 +7807,14 @@
 	"icon-dark-racetrack-boat-11": {
 		"width": 13,
 		"height": 13,
-		"x": 391,
+		"x": 631,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-racetrack-boat-13": {
 		"width": 15,
 		"height": 15,
-		"x": 307,
+		"x": 341,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7716,14 +7828,14 @@
 	"icon-light-racetrack-cycling-11": {
 		"width": 13,
 		"height": 13,
-		"x": 406,
+		"x": 646,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-light-racetrack-cycling-13": {
 		"width": 15,
 		"height": 15,
-		"x": 324,
+		"x": 358,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7737,14 +7849,14 @@
 	"icon-dark-racetrack-cycling-11": {
 		"width": 13,
 		"height": 13,
-		"x": 421,
+		"x": 661,
 		"y": 666,
 		"pixelRatio": 1
 	},
 	"icon-dark-racetrack-cycling-13": {
 		"width": 15,
 		"height": 15,
-		"x": 341,
+		"x": 375,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7758,14 +7870,14 @@
 	"icon-light-racetrack-horse-11": {
 		"width": 13,
 		"height": 13,
-		"x": 436,
-		"y": 666,
+		"x": 682,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-light-racetrack-horse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 358,
+		"x": 392,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7779,14 +7891,14 @@
 	"icon-dark-racetrack-horse-11": {
 		"width": 13,
 		"height": 13,
-		"x": 451,
-		"y": 666,
+		"x": 682,
+		"y": 16,
 		"pixelRatio": 1
 	},
 	"icon-dark-racetrack-horse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 375,
+		"x": 409,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7800,14 +7912,14 @@
 	"icon-light-racetrack-11": {
 		"width": 13,
 		"height": 13,
-		"x": 466,
-		"y": 666,
+		"x": 682,
+		"y": 31,
 		"pixelRatio": 1
 	},
 	"icon-light-racetrack-13": {
 		"width": 15,
 		"height": 15,
-		"x": 392,
+		"x": 426,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7821,14 +7933,14 @@
 	"icon-dark-racetrack-11": {
 		"width": 13,
 		"height": 13,
-		"x": 481,
-		"y": 666,
+		"x": 682,
+		"y": 46,
 		"pixelRatio": 1
 	},
 	"icon-dark-racetrack-13": {
 		"width": 15,
 		"height": 15,
-		"x": 409,
+		"x": 443,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7842,14 +7954,14 @@
 	"icon-light-rail-light-11": {
 		"width": 13,
 		"height": 13,
-		"x": 496,
-		"y": 666,
+		"x": 682,
+		"y": 61,
 		"pixelRatio": 1
 	},
 	"icon-light-rail-light-13": {
 		"width": 15,
 		"height": 15,
-		"x": 426,
+		"x": 460,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7863,14 +7975,14 @@
 	"icon-dark-rail-light-11": {
 		"width": 13,
 		"height": 13,
-		"x": 511,
-		"y": 666,
+		"x": 682,
+		"y": 76,
 		"pixelRatio": 1
 	},
 	"icon-dark-rail-light-13": {
 		"width": 15,
 		"height": 15,
-		"x": 443,
+		"x": 477,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7884,14 +7996,14 @@
 	"icon-light-rail-metro-11": {
 		"width": 13,
 		"height": 13,
-		"x": 526,
-		"y": 666,
+		"x": 682,
+		"y": 91,
 		"pixelRatio": 1
 	},
 	"icon-light-rail-metro-13": {
 		"width": 15,
 		"height": 15,
-		"x": 460,
+		"x": 494,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7905,14 +8017,14 @@
 	"icon-dark-rail-metro-11": {
 		"width": 13,
 		"height": 13,
-		"x": 541,
-		"y": 666,
+		"x": 682,
+		"y": 106,
 		"pixelRatio": 1
 	},
 	"icon-dark-rail-metro-13": {
 		"width": 15,
 		"height": 15,
-		"x": 477,
+		"x": 511,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7926,14 +8038,14 @@
 	"icon-light-rail-11": {
 		"width": 13,
 		"height": 13,
-		"x": 556,
-		"y": 666,
+		"x": 682,
+		"y": 121,
 		"pixelRatio": 1
 	},
 	"icon-light-rail-13": {
 		"width": 15,
 		"height": 15,
-		"x": 494,
+		"x": 528,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7947,14 +8059,14 @@
 	"icon-dark-rail-11": {
 		"width": 13,
 		"height": 13,
-		"x": 571,
-		"y": 666,
+		"x": 682,
+		"y": 136,
 		"pixelRatio": 1
 	},
 	"icon-dark-rail-13": {
 		"width": 15,
 		"height": 15,
-		"x": 511,
+		"x": 545,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7968,14 +8080,14 @@
 	"icon-light-ranger-station-11": {
 		"width": 13,
 		"height": 13,
-		"x": 586,
-		"y": 666,
+		"x": 682,
+		"y": 151,
 		"pixelRatio": 1
 	},
 	"icon-light-ranger-station-13": {
 		"width": 15,
 		"height": 15,
-		"x": 528,
+		"x": 562,
 		"y": 570,
 		"pixelRatio": 1
 	},
@@ -7989,15 +8101,15 @@
 	"icon-dark-ranger-station-11": {
 		"width": 13,
 		"height": 13,
-		"x": 601,
-		"y": 666,
+		"x": 682,
+		"y": 166,
 		"pixelRatio": 1
 	},
 	"icon-dark-ranger-station-13": {
 		"width": 15,
 		"height": 15,
-		"x": 545,
-		"y": 570,
+		"x": 588,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-dark-ranger-station-15": {
@@ -8010,15 +8122,15 @@
 	"icon-light-recycling-11": {
 		"width": 13,
 		"height": 13,
-		"x": 616,
-		"y": 666,
+		"x": 682,
+		"y": 181,
 		"pixelRatio": 1
 	},
 	"icon-light-recycling-13": {
 		"width": 15,
 		"height": 15,
-		"x": 562,
-		"y": 570,
+		"x": 588,
+		"y": 18,
 		"pixelRatio": 1
 	},
 	"icon-light-recycling-15": {
@@ -8031,15 +8143,15 @@
 	"icon-dark-recycling-11": {
 		"width": 13,
 		"height": 13,
-		"x": 631,
-		"y": 666,
+		"x": 682,
+		"y": 196,
 		"pixelRatio": 1
 	},
 	"icon-dark-recycling-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 1,
+		"y": 35,
 		"pixelRatio": 1
 	},
 	"icon-dark-recycling-15": {
@@ -8052,15 +8164,15 @@
 	"icon-light-religious-buddhist-11": {
 		"width": 13,
 		"height": 13,
-		"x": 646,
-		"y": 666,
+		"x": 682,
+		"y": 211,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-buddhist-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 18,
+		"y": 52,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-buddhist-15": {
@@ -8073,15 +8185,15 @@
 	"icon-dark-religious-buddhist-11": {
 		"width": 13,
 		"height": 13,
-		"x": 661,
-		"y": 666,
+		"x": 682,
+		"y": 226,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-buddhist-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 35,
+		"y": 69,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-buddhist-15": {
@@ -8095,14 +8207,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 1,
+		"y": 241,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-christian-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 52,
+		"y": 86,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-christian-15": {
@@ -8116,14 +8228,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 16,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-christian-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 69,
+		"y": 103,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-christian-15": {
@@ -8137,14 +8249,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 31,
+		"y": 271,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-jewish-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 86,
+		"y": 120,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-jewish-15": {
@@ -8158,14 +8270,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 46,
+		"y": 286,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-jewish-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 103,
+		"y": 137,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-jewish-15": {
@@ -8179,14 +8291,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 61,
+		"y": 301,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-muslim-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 120,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-muslim-15": {
@@ -8200,14 +8312,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 76,
+		"y": 316,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-muslim-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 137,
+		"y": 171,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-muslim-15": {
@@ -8221,14 +8333,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 91,
+		"y": 331,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-shinto-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 154,
+		"y": 188,
 		"pixelRatio": 1
 	},
 	"icon-light-religious-shinto-15": {
@@ -8242,14 +8354,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 106,
+		"y": 346,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-shinto-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 171,
+		"y": 205,
 		"pixelRatio": 1
 	},
 	"icon-dark-religious-shinto-15": {
@@ -8263,14 +8375,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 121,
+		"y": 361,
 		"pixelRatio": 1
 	},
 	"icon-light-residential-community-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 188,
+		"y": 222,
 		"pixelRatio": 1
 	},
 	"icon-light-residential-community-15": {
@@ -8284,14 +8396,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 136,
+		"y": 376,
 		"pixelRatio": 1
 	},
 	"icon-dark-residential-community-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 205,
+		"y": 239,
 		"pixelRatio": 1
 	},
 	"icon-dark-residential-community-15": {
@@ -8305,14 +8417,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 151,
+		"y": 391,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-bbq-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 222,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-bbq-15": {
@@ -8326,14 +8438,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 166,
+		"y": 406,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-bbq-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 239,
+		"y": 273,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-bbq-15": {
@@ -8347,14 +8459,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 181,
+		"y": 421,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-noodle-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 256,
+		"y": 290,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-noodle-15": {
@@ -8368,14 +8480,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 196,
+		"y": 436,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-noodle-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 273,
+		"y": 307,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-noodle-15": {
@@ -8389,14 +8501,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 211,
+		"y": 451,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-pizza-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 290,
+		"y": 324,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-pizza-15": {
@@ -8410,14 +8522,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 226,
+		"y": 466,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-pizza-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 307,
+		"y": 341,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-pizza-15": {
@@ -8431,14 +8543,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 241,
+		"y": 481,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-seafood-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 324,
+		"y": 358,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-seafood-15": {
@@ -8452,14 +8564,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 256,
+		"y": 496,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-seafood-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 341,
+		"y": 375,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-seafood-15": {
@@ -8473,14 +8585,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 271,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-sushi-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 358,
+		"y": 392,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-sushi-15": {
@@ -8494,14 +8606,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 286,
+		"y": 526,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-sushi-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 375,
+		"y": 409,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-sushi-15": {
@@ -8515,14 +8627,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 301,
+		"y": 541,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 392,
+		"y": 426,
 		"pixelRatio": 1
 	},
 	"icon-light-restaurant-15": {
@@ -8536,14 +8648,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 316,
+		"y": 556,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 409,
+		"y": 443,
 		"pixelRatio": 1
 	},
 	"icon-dark-restaurant-15": {
@@ -8557,14 +8669,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 331,
+		"y": 571,
 		"pixelRatio": 1
 	},
 	"icon-light-road-accident-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 426,
+		"y": 460,
 		"pixelRatio": 1
 	},
 	"icon-light-road-accident-15": {
@@ -8578,14 +8690,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 346,
+		"y": 586,
 		"pixelRatio": 1
 	},
 	"icon-dark-road-accident-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 443,
+		"y": 477,
 		"pixelRatio": 1
 	},
 	"icon-dark-road-accident-15": {
@@ -8599,14 +8711,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 361,
+		"y": 601,
 		"pixelRatio": 1
 	},
 	"icon-light-roadblock-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 460,
+		"y": 494,
 		"pixelRatio": 1
 	},
 	"icon-light-roadblock-15": {
@@ -8620,14 +8732,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 376,
+		"y": 616,
 		"pixelRatio": 1
 	},
 	"icon-dark-roadblock-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 477,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-dark-roadblock-15": {
@@ -8641,14 +8753,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 391,
+		"y": 631,
 		"pixelRatio": 1
 	},
 	"icon-light-rocket-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 494,
+		"y": 528,
 		"pixelRatio": 1
 	},
 	"icon-light-rocket-15": {
@@ -8662,14 +8774,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 406,
+		"y": 646,
 		"pixelRatio": 1
 	},
 	"icon-dark-rocket-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 511,
+		"y": 545,
 		"pixelRatio": 1
 	},
 	"icon-dark-rocket-15": {
@@ -8683,14 +8795,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 682,
-		"y": 421,
+		"y": 661,
 		"pixelRatio": 1
 	},
 	"icon-light-school-JP-13": {
 		"width": 15,
 		"height": 15,
 		"x": 588,
-		"y": 528,
+		"y": 562,
 		"pixelRatio": 1
 	},
 	"icon-light-school-JP-15": {
@@ -8703,15 +8815,15 @@
 	"icon-dark-school-JP-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 436,
+		"x": 1,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-school-JP-13": {
 		"width": 15,
 		"height": 15,
-		"x": 588,
-		"y": 545,
+		"x": 1,
+		"y": 587,
 		"pixelRatio": 1
 	},
 	"icon-dark-school-JP-15": {
@@ -8724,15 +8836,15 @@
 	"icon-light-school-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 451,
+		"x": 16,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-school-13": {
 		"width": 15,
 		"height": 15,
-		"x": 588,
-		"y": 562,
+		"x": 18,
+		"y": 587,
 		"pixelRatio": 1
 	},
 	"icon-light-school-15": {
@@ -8745,14 +8857,14 @@
 	"icon-dark-school-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 466,
+		"x": 31,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-school-13": {
 		"width": 15,
 		"height": 15,
-		"x": 1,
+		"x": 35,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8766,14 +8878,14 @@
 	"icon-light-scooter-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 481,
+		"x": 46,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-scooter-13": {
 		"width": 15,
 		"height": 15,
-		"x": 18,
+		"x": 52,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8787,14 +8899,14 @@
 	"icon-dark-scooter-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 496,
+		"x": 61,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-scooter-13": {
 		"width": 15,
 		"height": 15,
-		"x": 35,
+		"x": 69,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8808,14 +8920,14 @@
 	"icon-light-shelter-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 511,
+		"x": 76,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-shelter-13": {
 		"width": 15,
 		"height": 15,
-		"x": 52,
+		"x": 86,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8829,14 +8941,14 @@
 	"icon-dark-shelter-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 526,
+		"x": 91,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-shelter-13": {
 		"width": 15,
 		"height": 15,
-		"x": 69,
+		"x": 103,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8850,14 +8962,14 @@
 	"icon-light-shoe-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 541,
+		"x": 106,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-shoe-13": {
 		"width": 15,
 		"height": 15,
-		"x": 86,
+		"x": 120,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8871,14 +8983,14 @@
 	"icon-dark-shoe-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 556,
+		"x": 121,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-shoe-13": {
 		"width": 15,
 		"height": 15,
-		"x": 103,
+		"x": 137,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8892,14 +9004,14 @@
 	"icon-light-shop-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 571,
+		"x": 136,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-shop-13": {
 		"width": 15,
 		"height": 15,
-		"x": 120,
+		"x": 154,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8913,14 +9025,14 @@
 	"icon-dark-shop-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 586,
+		"x": 151,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-shop-13": {
 		"width": 15,
 		"height": 15,
-		"x": 137,
+		"x": 171,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8934,14 +9046,14 @@
 	"icon-light-skateboard-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 601,
+		"x": 166,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-skateboard-13": {
 		"width": 15,
 		"height": 15,
-		"x": 154,
+		"x": 188,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8955,14 +9067,14 @@
 	"icon-dark-skateboard-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 616,
+		"x": 181,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-skateboard-13": {
 		"width": 15,
 		"height": 15,
-		"x": 171,
+		"x": 205,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8976,14 +9088,14 @@
 	"icon-light-skiing-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 631,
+		"x": 196,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-skiing-13": {
 		"width": 15,
 		"height": 15,
-		"x": 188,
+		"x": 222,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -8997,14 +9109,14 @@
 	"icon-dark-skiing-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 646,
+		"x": 211,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-skiing-13": {
 		"width": 15,
 		"height": 15,
-		"x": 205,
+		"x": 239,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9018,14 +9130,14 @@
 	"icon-light-slaughterhouse-11": {
 		"width": 13,
 		"height": 13,
-		"x": 682,
-		"y": 661,
+		"x": 226,
+		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-slaughterhouse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 222,
+		"x": 256,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9039,14 +9151,14 @@
 	"icon-dark-slaughterhouse-11": {
 		"width": 13,
 		"height": 13,
-		"x": 1,
+		"x": 241,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-slaughterhouse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 239,
+		"x": 273,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9060,14 +9172,14 @@
 	"icon-light-slipway-11": {
 		"width": 13,
 		"height": 13,
-		"x": 16,
+		"x": 256,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-slipway-13": {
 		"width": 15,
 		"height": 15,
-		"x": 256,
+		"x": 290,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9081,14 +9193,14 @@
 	"icon-dark-slipway-11": {
 		"width": 13,
 		"height": 13,
-		"x": 31,
+		"x": 271,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-slipway-13": {
 		"width": 15,
 		"height": 15,
-		"x": 273,
+		"x": 307,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9102,14 +9214,14 @@
 	"icon-light-snowmobile-11": {
 		"width": 13,
 		"height": 13,
-		"x": 46,
+		"x": 286,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-snowmobile-13": {
 		"width": 15,
 		"height": 15,
-		"x": 290,
+		"x": 324,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9123,14 +9235,14 @@
 	"icon-dark-snowmobile-11": {
 		"width": 13,
 		"height": 13,
-		"x": 61,
+		"x": 301,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-snowmobile-13": {
 		"width": 15,
 		"height": 15,
-		"x": 307,
+		"x": 341,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9144,14 +9256,14 @@
 	"icon-light-soccer-11": {
 		"width": 13,
 		"height": 13,
-		"x": 76,
+		"x": 316,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-soccer-13": {
 		"width": 15,
 		"height": 15,
-		"x": 324,
+		"x": 358,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9165,14 +9277,14 @@
 	"icon-dark-soccer-11": {
 		"width": 13,
 		"height": 13,
-		"x": 91,
+		"x": 331,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-soccer-13": {
 		"width": 15,
 		"height": 15,
-		"x": 341,
+		"x": 375,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9186,14 +9298,14 @@
 	"icon-light-square-stroked-11": {
 		"width": 13,
 		"height": 13,
-		"x": 106,
+		"x": 346,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-square-stroked-13": {
 		"width": 15,
 		"height": 15,
-		"x": 358,
+		"x": 392,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9207,14 +9319,14 @@
 	"icon-dark-square-stroked-11": {
 		"width": 13,
 		"height": 13,
-		"x": 121,
+		"x": 361,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-square-stroked-13": {
 		"width": 15,
 		"height": 15,
-		"x": 375,
+		"x": 409,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9228,14 +9340,14 @@
 	"icon-light-square-11": {
 		"width": 13,
 		"height": 13,
-		"x": 136,
+		"x": 376,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-square-13": {
 		"width": 15,
 		"height": 15,
-		"x": 392,
+		"x": 426,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9249,14 +9361,14 @@
 	"icon-dark-square-11": {
 		"width": 13,
 		"height": 13,
-		"x": 151,
+		"x": 391,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-square-13": {
 		"width": 15,
 		"height": 15,
-		"x": 409,
+		"x": 443,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9270,14 +9382,14 @@
 	"icon-light-stadium-11": {
 		"width": 13,
 		"height": 13,
-		"x": 166,
+		"x": 406,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-stadium-13": {
 		"width": 15,
 		"height": 15,
-		"x": 426,
+		"x": 460,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9291,14 +9403,14 @@
 	"icon-dark-stadium-11": {
 		"width": 13,
 		"height": 13,
-		"x": 181,
+		"x": 421,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-stadium-13": {
 		"width": 15,
 		"height": 15,
-		"x": 443,
+		"x": 477,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9312,14 +9424,14 @@
 	"icon-light-star-stroked-11": {
 		"width": 13,
 		"height": 13,
-		"x": 196,
+		"x": 436,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-star-stroked-13": {
 		"width": 15,
 		"height": 15,
-		"x": 460,
+		"x": 494,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9333,14 +9445,14 @@
 	"icon-dark-star-stroked-11": {
 		"width": 13,
 		"height": 13,
-		"x": 211,
+		"x": 451,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-star-stroked-13": {
 		"width": 15,
 		"height": 15,
-		"x": 477,
+		"x": 511,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9354,14 +9466,14 @@
 	"icon-light-star-11": {
 		"width": 13,
 		"height": 13,
-		"x": 226,
+		"x": 466,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-star-13": {
 		"width": 15,
 		"height": 15,
-		"x": 494,
+		"x": 528,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9375,14 +9487,14 @@
 	"icon-dark-star-11": {
 		"width": 13,
 		"height": 13,
-		"x": 241,
+		"x": 481,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-star-13": {
 		"width": 15,
 		"height": 15,
-		"x": 511,
+		"x": 545,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9396,14 +9508,14 @@
 	"icon-light-suitcase-11": {
 		"width": 13,
 		"height": 13,
-		"x": 256,
+		"x": 496,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-suitcase-13": {
 		"width": 15,
 		"height": 15,
-		"x": 528,
+		"x": 562,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9417,14 +9529,14 @@
 	"icon-dark-suitcase-11": {
 		"width": 13,
 		"height": 13,
-		"x": 271,
+		"x": 511,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-suitcase-13": {
 		"width": 15,
 		"height": 15,
-		"x": 545,
+		"x": 579,
 		"y": 587,
 		"pixelRatio": 1
 	},
@@ -9438,15 +9550,15 @@
 	"icon-light-swimming-11": {
 		"width": 13,
 		"height": 13,
-		"x": 286,
+		"x": 526,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-light-swimming-13": {
 		"width": 15,
 		"height": 15,
-		"x": 562,
-		"y": 587,
+		"x": 605,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-light-swimming-15": {
@@ -9459,15 +9571,15 @@
 	"icon-dark-swimming-11": {
 		"width": 13,
 		"height": 13,
-		"x": 301,
+		"x": 541,
 		"y": 681,
 		"pixelRatio": 1
 	},
 	"icon-dark-swimming-13": {
 		"width": 15,
 		"height": 15,
-		"x": 579,
-		"y": 587,
+		"x": 605,
+		"y": 18,
 		"pixelRatio": 1
 	},
 	"icon-dark-swimming-15": {
@@ -9480,7 +9592,7 @@
 	"icon-light-table-tennis-11": {
 		"width": 13,
 		"height": 13,
-		"x": 316,
+		"x": 556,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9488,7 +9600,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 1,
+		"y": 35,
 		"pixelRatio": 1
 	},
 	"icon-light-table-tennis-15": {
@@ -9501,7 +9613,7 @@
 	"icon-dark-table-tennis-11": {
 		"width": 13,
 		"height": 13,
-		"x": 331,
+		"x": 571,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9509,7 +9621,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 18,
+		"y": 52,
 		"pixelRatio": 1
 	},
 	"icon-dark-table-tennis-15": {
@@ -9522,7 +9634,7 @@
 	"icon-light-teahouse-11": {
 		"width": 13,
 		"height": 13,
-		"x": 346,
+		"x": 586,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9530,7 +9642,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 35,
+		"y": 69,
 		"pixelRatio": 1
 	},
 	"icon-light-teahouse-15": {
@@ -9543,7 +9655,7 @@
 	"icon-dark-teahouse-11": {
 		"width": 13,
 		"height": 13,
-		"x": 361,
+		"x": 601,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9551,7 +9663,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 52,
+		"y": 86,
 		"pixelRatio": 1
 	},
 	"icon-dark-teahouse-15": {
@@ -9564,7 +9676,7 @@
 	"icon-light-telephone-11": {
 		"width": 13,
 		"height": 13,
-		"x": 376,
+		"x": 616,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9572,7 +9684,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 69,
+		"y": 103,
 		"pixelRatio": 1
 	},
 	"icon-light-telephone-15": {
@@ -9585,7 +9697,7 @@
 	"icon-dark-telephone-11": {
 		"width": 13,
 		"height": 13,
-		"x": 391,
+		"x": 631,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9593,7 +9705,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 86,
+		"y": 120,
 		"pixelRatio": 1
 	},
 	"icon-dark-telephone-15": {
@@ -9606,7 +9718,7 @@
 	"icon-light-tennis-11": {
 		"width": 13,
 		"height": 13,
-		"x": 406,
+		"x": 646,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9614,7 +9726,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 103,
+		"y": 137,
 		"pixelRatio": 1
 	},
 	"icon-light-tennis-15": {
@@ -9627,7 +9739,7 @@
 	"icon-dark-tennis-11": {
 		"width": 13,
 		"height": 13,
-		"x": 421,
+		"x": 661,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9635,7 +9747,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 120,
+		"y": 154,
 		"pixelRatio": 1
 	},
 	"icon-dark-tennis-15": {
@@ -9648,7 +9760,7 @@
 	"icon-light-theatre-11": {
 		"width": 13,
 		"height": 13,
-		"x": 436,
+		"x": 676,
 		"y": 681,
 		"pixelRatio": 1
 	},
@@ -9656,7 +9768,7 @@
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 137,
+		"y": 171,
 		"pixelRatio": 1
 	},
 	"icon-light-theatre-15": {
@@ -9669,15 +9781,15 @@
 	"icon-dark-theatre-11": {
 		"width": 13,
 		"height": 13,
-		"x": 451,
-		"y": 681,
+		"x": 697,
+		"y": 1,
 		"pixelRatio": 1
 	},
 	"icon-dark-theatre-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 154,
+		"y": 188,
 		"pixelRatio": 1
 	},
 	"icon-dark-theatre-15": {
@@ -9690,15 +9802,15 @@
 	"icon-light-toilet-11": {
 		"width": 13,
 		"height": 13,
-		"x": 466,
-		"y": 681,
+		"x": 697,
+		"y": 16,
 		"pixelRatio": 1
 	},
 	"icon-light-toilet-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 171,
+		"y": 205,
 		"pixelRatio": 1
 	},
 	"icon-light-toilet-15": {
@@ -9711,15 +9823,15 @@
 	"icon-dark-toilet-11": {
 		"width": 13,
 		"height": 13,
-		"x": 481,
-		"y": 681,
+		"x": 697,
+		"y": 31,
 		"pixelRatio": 1
 	},
 	"icon-dark-toilet-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 188,
+		"y": 222,
 		"pixelRatio": 1
 	},
 	"icon-dark-toilet-15": {
@@ -9732,15 +9844,15 @@
 	"icon-light-toll-11": {
 		"width": 13,
 		"height": 13,
-		"x": 496,
-		"y": 681,
+		"x": 697,
+		"y": 46,
 		"pixelRatio": 1
 	},
 	"icon-light-toll-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 205,
+		"y": 239,
 		"pixelRatio": 1
 	},
 	"icon-light-toll-15": {
@@ -9753,15 +9865,15 @@
 	"icon-dark-toll-11": {
 		"width": 13,
 		"height": 13,
-		"x": 511,
-		"y": 681,
+		"x": 697,
+		"y": 61,
 		"pixelRatio": 1
 	},
 	"icon-dark-toll-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 222,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-dark-toll-15": {
@@ -9774,15 +9886,15 @@
 	"icon-light-town-hall-11": {
 		"width": 13,
 		"height": 13,
-		"x": 526,
-		"y": 681,
+		"x": 697,
+		"y": 76,
 		"pixelRatio": 1
 	},
 	"icon-light-town-hall-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 239,
+		"y": 273,
 		"pixelRatio": 1
 	},
 	"icon-light-town-hall-15": {
@@ -9795,15 +9907,15 @@
 	"icon-dark-town-hall-11": {
 		"width": 13,
 		"height": 13,
-		"x": 541,
-		"y": 681,
+		"x": 697,
+		"y": 91,
 		"pixelRatio": 1
 	},
 	"icon-dark-town-hall-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 256,
+		"y": 290,
 		"pixelRatio": 1
 	},
 	"icon-dark-town-hall-15": {
@@ -9816,15 +9928,15 @@
 	"icon-light-town-11": {
 		"width": 13,
 		"height": 13,
-		"x": 556,
-		"y": 681,
+		"x": 697,
+		"y": 106,
 		"pixelRatio": 1
 	},
 	"icon-light-town-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 273,
+		"y": 307,
 		"pixelRatio": 1
 	},
 	"icon-light-town-15": {
@@ -9837,15 +9949,15 @@
 	"icon-dark-town-11": {
 		"width": 13,
 		"height": 13,
-		"x": 571,
-		"y": 681,
+		"x": 697,
+		"y": 121,
 		"pixelRatio": 1
 	},
 	"icon-dark-town-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 290,
+		"y": 324,
 		"pixelRatio": 1
 	},
 	"icon-dark-town-15": {
@@ -9858,15 +9970,15 @@
 	"icon-light-triangle-stroked-11": {
 		"width": 13,
 		"height": 13,
-		"x": 586,
-		"y": 681,
+		"x": 697,
+		"y": 136,
 		"pixelRatio": 1
 	},
 	"icon-light-triangle-stroked-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 307,
+		"y": 341,
 		"pixelRatio": 1
 	},
 	"icon-light-triangle-stroked-15": {
@@ -9879,15 +9991,15 @@
 	"icon-dark-triangle-stroked-11": {
 		"width": 13,
 		"height": 13,
-		"x": 601,
-		"y": 681,
+		"x": 697,
+		"y": 151,
 		"pixelRatio": 1
 	},
 	"icon-dark-triangle-stroked-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 324,
+		"y": 358,
 		"pixelRatio": 1
 	},
 	"icon-dark-triangle-stroked-15": {
@@ -9900,15 +10012,15 @@
 	"icon-light-triangle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 616,
-		"y": 681,
+		"x": 697,
+		"y": 166,
 		"pixelRatio": 1
 	},
 	"icon-light-triangle-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 341,
+		"y": 375,
 		"pixelRatio": 1
 	},
 	"icon-light-triangle-15": {
@@ -9921,15 +10033,15 @@
 	"icon-dark-triangle-11": {
 		"width": 13,
 		"height": 13,
-		"x": 631,
-		"y": 681,
+		"x": 697,
+		"y": 181,
 		"pixelRatio": 1
 	},
 	"icon-dark-triangle-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 358,
+		"y": 392,
 		"pixelRatio": 1
 	},
 	"icon-dark-triangle-15": {
@@ -9942,15 +10054,15 @@
 	"icon-light-tunnel-11": {
 		"width": 13,
 		"height": 13,
-		"x": 646,
-		"y": 681,
+		"x": 697,
+		"y": 196,
 		"pixelRatio": 1
 	},
 	"icon-light-tunnel-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 375,
+		"y": 409,
 		"pixelRatio": 1
 	},
 	"icon-light-tunnel-15": {
@@ -9963,15 +10075,15 @@
 	"icon-dark-tunnel-11": {
 		"width": 13,
 		"height": 13,
-		"x": 661,
-		"y": 681,
+		"x": 697,
+		"y": 211,
 		"pixelRatio": 1
 	},
 	"icon-dark-tunnel-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 392,
+		"y": 426,
 		"pixelRatio": 1
 	},
 	"icon-dark-tunnel-15": {
@@ -9984,15 +10096,15 @@
 	"icon-light-veterinary-11": {
 		"width": 13,
 		"height": 13,
-		"x": 676,
-		"y": 681,
+		"x": 697,
+		"y": 226,
 		"pixelRatio": 1
 	},
 	"icon-light-veterinary-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 409,
+		"y": 443,
 		"pixelRatio": 1
 	},
 	"icon-light-veterinary-15": {
@@ -10006,14 +10118,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 1,
+		"y": 241,
 		"pixelRatio": 1
 	},
 	"icon-dark-veterinary-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 426,
+		"y": 460,
 		"pixelRatio": 1
 	},
 	"icon-dark-veterinary-15": {
@@ -10027,14 +10139,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 16,
+		"y": 256,
 		"pixelRatio": 1
 	},
 	"icon-light-viewpoint-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 443,
+		"y": 477,
 		"pixelRatio": 1
 	},
 	"icon-light-viewpoint-15": {
@@ -10048,14 +10160,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 31,
+		"y": 271,
 		"pixelRatio": 1
 	},
 	"icon-dark-viewpoint-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 460,
+		"y": 494,
 		"pixelRatio": 1
 	},
 	"icon-dark-viewpoint-15": {
@@ -10069,14 +10181,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 46,
+		"y": 286,
 		"pixelRatio": 1
 	},
 	"icon-light-village-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 477,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-light-village-15": {
@@ -10090,14 +10202,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 61,
+		"y": 301,
 		"pixelRatio": 1
 	},
 	"icon-dark-village-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 494,
+		"y": 528,
 		"pixelRatio": 1
 	},
 	"icon-dark-village-15": {
@@ -10111,14 +10223,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 76,
+		"y": 316,
 		"pixelRatio": 1
 	},
 	"icon-light-volcano-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 511,
+		"y": 545,
 		"pixelRatio": 1
 	},
 	"icon-light-volcano-15": {
@@ -10132,14 +10244,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 91,
+		"y": 331,
 		"pixelRatio": 1
 	},
 	"icon-dark-volcano-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 528,
+		"y": 562,
 		"pixelRatio": 1
 	},
 	"icon-dark-volcano-15": {
@@ -10153,14 +10265,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 106,
+		"y": 346,
 		"pixelRatio": 1
 	},
 	"icon-light-volleyball-13": {
 		"width": 15,
 		"height": 15,
 		"x": 605,
-		"y": 545,
+		"y": 579,
 		"pixelRatio": 1
 	},
 	"icon-light-volleyball-15": {
@@ -10174,14 +10286,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 121,
+		"y": 361,
 		"pixelRatio": 1
 	},
 	"icon-dark-volleyball-13": {
 		"width": 15,
 		"height": 15,
-		"x": 605,
-		"y": 562,
+		"x": 1,
+		"y": 604,
 		"pixelRatio": 1
 	},
 	"icon-dark-volleyball-15": {
@@ -10195,14 +10307,14 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 136,
+		"y": 376,
 		"pixelRatio": 1
 	},
 	"icon-light-warehouse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 605,
-		"y": 579,
+		"x": 18,
+		"y": 604,
 		"pixelRatio": 1
 	},
 	"icon-light-warehouse-15": {
@@ -10216,13 +10328,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 151,
+		"y": 391,
 		"pixelRatio": 1
 	},
 	"icon-dark-warehouse-13": {
 		"width": 15,
 		"height": 15,
-		"x": 1,
+		"x": 35,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10237,13 +10349,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 166,
+		"y": 406,
 		"pixelRatio": 1
 	},
 	"icon-light-waste-basket-13": {
 		"width": 15,
 		"height": 15,
-		"x": 18,
+		"x": 52,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10258,13 +10370,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 181,
+		"y": 421,
 		"pixelRatio": 1
 	},
 	"icon-dark-waste-basket-13": {
 		"width": 15,
 		"height": 15,
-		"x": 35,
+		"x": 69,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10279,13 +10391,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 196,
+		"y": 436,
 		"pixelRatio": 1
 	},
 	"icon-light-watch-13": {
 		"width": 15,
 		"height": 15,
-		"x": 52,
+		"x": 86,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10300,13 +10412,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 211,
+		"y": 451,
 		"pixelRatio": 1
 	},
 	"icon-dark-watch-13": {
 		"width": 15,
 		"height": 15,
-		"x": 69,
+		"x": 103,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10321,13 +10433,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 226,
+		"y": 466,
 		"pixelRatio": 1
 	},
 	"icon-light-water-13": {
 		"width": 15,
 		"height": 15,
-		"x": 86,
+		"x": 120,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10342,13 +10454,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 241,
+		"y": 481,
 		"pixelRatio": 1
 	},
 	"icon-dark-water-13": {
 		"width": 15,
 		"height": 15,
-		"x": 103,
+		"x": 137,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10363,13 +10475,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 256,
+		"y": 496,
 		"pixelRatio": 1
 	},
 	"icon-light-waterfall-13": {
 		"width": 15,
 		"height": 15,
-		"x": 120,
+		"x": 154,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10384,13 +10496,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 271,
+		"y": 511,
 		"pixelRatio": 1
 	},
 	"icon-dark-waterfall-13": {
 		"width": 15,
 		"height": 15,
-		"x": 137,
+		"x": 171,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10405,13 +10517,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 286,
+		"y": 526,
 		"pixelRatio": 1
 	},
 	"icon-light-watermill-13": {
 		"width": 15,
 		"height": 15,
-		"x": 154,
+		"x": 188,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10426,13 +10538,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 301,
+		"y": 541,
 		"pixelRatio": 1
 	},
 	"icon-dark-watermill-13": {
 		"width": 15,
 		"height": 15,
-		"x": 171,
+		"x": 205,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10447,13 +10559,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 316,
+		"y": 556,
 		"pixelRatio": 1
 	},
 	"icon-light-wetland-13": {
 		"width": 15,
 		"height": 15,
-		"x": 188,
+		"x": 222,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10468,13 +10580,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 331,
+		"y": 571,
 		"pixelRatio": 1
 	},
 	"icon-dark-wetland-13": {
 		"width": 15,
 		"height": 15,
-		"x": 205,
+		"x": 239,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10489,13 +10601,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 346,
+		"y": 586,
 		"pixelRatio": 1
 	},
 	"icon-light-wheelchair-13": {
 		"width": 15,
 		"height": 15,
-		"x": 222,
+		"x": 256,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10510,13 +10622,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 361,
+		"y": 601,
 		"pixelRatio": 1
 	},
 	"icon-dark-wheelchair-13": {
 		"width": 15,
 		"height": 15,
-		"x": 239,
+		"x": 273,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10531,13 +10643,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 376,
+		"y": 616,
 		"pixelRatio": 1
 	},
 	"icon-light-windmill-13": {
 		"width": 15,
 		"height": 15,
-		"x": 256,
+		"x": 290,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10552,13 +10664,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 391,
+		"y": 631,
 		"pixelRatio": 1
 	},
 	"icon-dark-windmill-13": {
 		"width": 15,
 		"height": 15,
-		"x": 273,
+		"x": 307,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10573,13 +10685,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 406,
+		"y": 646,
 		"pixelRatio": 1
 	},
 	"icon-light-zoo-13": {
 		"width": 15,
 		"height": 15,
-		"x": 290,
+		"x": 324,
 		"y": 604,
 		"pixelRatio": 1
 	},
@@ -10594,13 +10706,13 @@
 		"width": 13,
 		"height": 13,
 		"x": 697,
-		"y": 421,
+		"y": 661,
 		"pixelRatio": 1
 	},
 	"icon-dark-zoo-13": {
 		"width": 15,
 		"height": 15,
-		"x": 307,
+		"x": 341,
 		"y": 604,
 		"pixelRatio": 1
 	},
