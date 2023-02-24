@@ -132,7 +132,7 @@ async function main(){
 			return {
 				...icon,
 				width: Math.ceil(icon.w)+(4*factor),
-				height: Math.ceil(icon.w)+(4*factor),
+				height: Math.ceil(icon.h)+(4*factor),
 			};
 		});
 
