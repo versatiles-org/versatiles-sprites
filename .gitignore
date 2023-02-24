@@ -1,6 +1,7 @@
 node_modules
 iconsets/icon/*
 sprites
+dist
 .git
 .nova
 .DS_Store

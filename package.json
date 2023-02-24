@@ -6,7 +6,8 @@
   "main": "config.json",
   "scripts": {
     "import-maki": "node bin/import-maki.js",
-    "assemble": "node bin/assemble-spritemaps.js"
+    "assemble": "node bin/assemble-spritemaps.js",
+    "dist": "node bin/dist.js"
   },
   "author": "yetzt <versatiles@yetzt.me>",
   "license": "Unlicense",
