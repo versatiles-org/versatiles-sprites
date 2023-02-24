@@ -5,7 +5,6 @@
   "description": "Generate sprites for map styles from SVG icons",
   "main": "config.json",
   "scripts": {
-    "dist": "node bin/dist.js",
     "import-maki": "node bin/import-maki.js",
     "assemble": "node bin/assemble-spritemaps.js"
   },
