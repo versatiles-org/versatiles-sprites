@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="110"
+   height="110.00002"
+   viewBox="0 0 29.104166 29.104172"
+   version="1.1"
+   id="versatiles-icons"
+   sodipodi:docname="marker-outline.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview2153"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="3.9863628"
+     inkscape:cx="28.848353"
+     inkscape:cy="54.81187"
+     inkscape:window-width="1859"
+     inkscape:window-height="1027"
+     inkscape:window-x="61"
+     inkscape:window-y="229"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="versatiles-icons" />
+  <defs
+     id="defs55458" />
+  <metadata
+     id="metadata55396">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="marker-outline"
+     fill="#000000"
+     d="M 14.552083,6.0139579e-6 C 8.3011829,6.0139579e-6 3.233883,5.067266 3.233883,11.318176 c 0,6.25092 9.7013,17.78599 11.3182,17.78599 1.6169,0 11.3182,-11.53507 11.3182,-17.78599 0,-6.25091 -5.0673,-11.3181699860421 -11.3182,-11.3181699860421 z m 0,2.6458299860421 c 5.1144,0 8.7313,4.14604 8.7313,9.26042 0,5.11438 -7.4084,13.49375 -8.7313,13.49375 -1.3229,0 -8.7312001,-8.37937 -8.7312001,-13.49375 0,-5.11438 3.6168,-9.26042 8.7312001,-9.26042 z" />
+</svg>

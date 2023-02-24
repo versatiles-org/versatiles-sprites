@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="110"
+   height="110"
+   viewBox="0 0 29.104168 29.104165"
+   version="1.1"
+   id="versatiles-icons"
+   sodipodi:docname="roundel.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview2768"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.4361111"
+     inkscape:cx="-28.118586"
+     inkscape:cy="73.27252"
+     inkscape:window-width="1859"
+     inkscape:window-height="1027"
+     inkscape:window-x="61"
+     inkscape:window-y="229"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="versatiles-icons" />
+  <defs
+     id="defs55458" />
+  <metadata
+     id="metadata55396">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+   id="path795"
+   d="m 1.3229178,11.90625 v 5.291667 H 27.781251 V 11.90625 Z"
+   sodipodi:nodetypes="ccccc"
+   style="fill:#001155;fill-opacity:1" />
+  <path
+     id="roundel"
+     d="M 14.552083 2.6458333 C 8.8995891 2.6458333 4.1504716 6.6124255 2.9429728 11.90625 L 5.3965698 11.90625 C 6.5385687 7.9257042 10.196188 5.0265665 14.552083 5.0265665 C 18.907979 5.0265665 22.563931 7.9257042 23.70553 11.90625 L 26.161194 11.90625 C 24.953795 6.6124255 20.204578 2.6458333 14.552083 2.6458333 z M 2.9429728 17.197917 C 4.1503716 22.491791 8.8995891 26.458333 14.552083 26.458333 C 20.204578 26.458333 24.953795 22.491791 26.161194 17.197917 L 23.70553 17.197917 C 22.563831 21.177773 18.907879 24.075533 14.552083 24.075533 C 10.196388 24.075533 6.5387687 21.177773 5.3965698 17.197917 L 2.9429728 17.197917 z "
+     style="fill:#771111;fill-opacity:1" />
+</svg>

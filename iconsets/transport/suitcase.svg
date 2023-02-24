@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="110"
+   height="110"
+   viewBox="0 0 29.104165 29.104165"
+   version="1.1"
+   id="versatiles-icons"
+   sodipodi:docname="suitcase.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview3629"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.9379127"
+     inkscape:cx="44.377645"
+     inkscape:cy="123.07056"
+     inkscape:window-width="1859"
+     inkscape:window-height="1027"
+     inkscape:window-x="61"
+     inkscape:window-y="229"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="versatiles-icons" />
+  <defs
+     id="defs55458" />
+  <metadata
+     id="metadata55396">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="suitcase"
+     fill="#000000"
+     d="m 10.583333,2.6458332 c 0,0 -2.6459005,0 -2.6459005,2.6458301 v 2.6458395 h -2.6458 c -2.6458,0 -2.6458,0 -2.6458,2.6458312 v 10.583329 c 0,2.64583 0,2.64584 2.6458,2.64584 H 23.812433 c 2.6459,0 2.6459,-10e-6 2.6459,-2.64584 V 10.583334 c 0,-2.6458312 0,-2.6458312 -2.6459,-2.6458312 h -2.6458 V 5.2916633 c 0,-2.6458301 -2.6458,-2.6458301 -2.6458,-2.6458301 z m 2.6458,2.6458301 h 2.6458 c 2.6459,0 2.6459,0 2.6459,2.6458395 h -7.9375 c 0,-2.6458395 0,-2.6458395 2.6458,-2.6458395 z" />
+</svg>
