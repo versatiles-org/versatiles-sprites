@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "versatiles-sprites",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Generate sprites for map styles from SVG icons",
   "main": "config.json",
   "scripts": {
