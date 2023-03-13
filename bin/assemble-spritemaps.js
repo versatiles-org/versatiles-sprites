@@ -118,32 +118,38 @@ async function main(){
 		return icons;
 	},[]);
 
+	// apply sizes
+	icons = icons.map(function(icon){
+		return {
+			...icon,
+			...applySize(Buffer.from(icon.buffer), icon.h)
+		};
+	}).map(function(icon){ // apply 2px buffer
+		return {
+			...icon,
+			width: Math.ceil(icon.w+4),
+			height: Math.ceil(icon.h+4),
+		};
+	});
+
+	// pack
+	const dimensions = pack(icons, { inPlace: true });
+
 	// create spritemap for each ratio
 	Object.entries(config.ratio).forEach(function([ scale, factor ]){
-
-		let sprites = icons.map(function(icon){
-			icon = structuredClone(icon);
+		let sprites = structuredClone(icons).map(function(icon){
+			// scale for ratio
 			return {
 				...icon,
-				...applySize(Buffer.from(icon.buffer), icon.h * factor)
-			};
-		}).map(function(icon){ // apply 1px buffer, assemble name
-
-			return {
-				...icon,
-				width: Math.ceil(icon.w)+(4*factor),
-				height: Math.ceil(icon.h)+(4*factor),
+				...applySize(Buffer.from(icon.buffer), icon.h*factor)
 			};
 		});
-
-		// pack
-		const dimensions = pack(sprites, { inPlace: true });
 
 		// combine into sprite
 		sharp({
 			create: {
-				width: dimensions.width+(4*factor),
-				height: dimensions.height+(4*factor),
+				width: (dimensions.width+4)*factor,
+				height: (dimensions.height+4)*factor,
 				channels: 4,
 				background: { r: 0, g: 0, b: 0, alpha: 0 }
 			}
@@ -152,8 +158,8 @@ async function main(){
 		}).map(function(sprite){ // apply glow
 			return {
 				input: applyColors(stripSVG(sprite.buffer), [ config.sets[sprite.set].glow[sprite.theme] ]),
-				top: sprite.y+(2*factor),
-				left: sprite.x+(2*factor)
+				top: (sprite.y+2)*factor,
+				left: (sprite.x+2)*factor,
 			};
 		}))
 		.png()
@@ -167,8 +173,8 @@ async function main(){
 				nsprites++;
 				return {
 					input: sprite.buffer,
-					top: sprite.y+(2*factor),
-					left: sprite.x+(2*factor)
+					top: (sprite.y+2)*factor,
+					left: (sprite.x+2)*factor,
 				};
 			}))
 			.png()
