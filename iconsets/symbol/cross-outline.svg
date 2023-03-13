@@ -1,37 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="110"
-   height="110"
-   viewBox="0 0 29.104218 29.104172"
-   version="1.1"
-   id="versatiles-icons"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#">
-  <defs
-     id="defs55458" />
-  <metadata
-     id="metadata55396">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <cc:license
-           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <path
-     id="cross-outline"
-     fill="#000000"
-     d="M 7.937515,1.2626262e-7 V 7.9375001 H 1.5006264e-5 V 21.16666 H 7.937515 v 7.9375 h 13.2292 v -7.9375 h 7.9375 V 7.9375001 h -7.9375 V 1.2626262e-7 Z M 10.583415,2.6458301 h 7.9375 V 10.58333 h 7.9375 v 7.9375 h -7.9375 v 7.9375 h -7.9375 v -7.9375 h -7.9375 v -7.9375 h 7.9375 z" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" id="cross-outline" width="110" height="110" viewBox="0 0 29.104218 29.104172" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#">
+<path d="M 7.937515,1.2626262e-7 V 7.9375001 H 1.5006264e-5 V 21.16666 H 7.937515 v 7.9375 h 13.2292 v -7.9375 h 7.9375 V 7.9375001 h -7.9375 V 1.2626262e-7 Z M 10.583415,2.6458301 h 7.9375 V 10.58333 h 7.9375 v 7.9375 h -7.9375 v 7.9375 h -7.9375 v -7.9375 h -7.9375 v -7.9375 h 7.9375 z"/>
+<metadata><cc:Work><cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /></cc:Work></metadata>
 </svg>
