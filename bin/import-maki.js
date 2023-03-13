@@ -12,7 +12,6 @@ const maki2shortbread = {
 	"alcohol-shop": "alcohol",
 	"amusement-park": "theme_park",
 	"art-gallery": "arts_centre",
-	"bar": "nightclub",
 	"beer": "pub",
 	"bicycle-share": "bicycle_rental",
 	"campsite": ["camp_site", "caravan_site"],
